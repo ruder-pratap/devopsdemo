@@ -1,0 +1,32 @@
+﻿@model CategoryViewModel
+@{
+    ViewBag.Title = "Category Details";
+}
+<div class="container">
+
+    <table class="table table-striped">
+        <thead>
+            <tr>
+                <th>@Html.LabelFor(x=>x.Id)</th>
+                <th>@Html.LabelFor(x => x.Name)</th>
+                <th>@Html.LabelFor(x => x.Description)</th>
+                <th>@Html.LabelFor(x => x.PriceRange)</th>
+                <th>@Html.LabelFor(x => x.DisplayOrder)</th>
+
+                <th>Action</th>
+            </tr>
+        </thead>
+        <tbody>
+                <tr>
+                    <td>@Model.Id</td>
+                    <td>@Model.Name</td>
+                    <td>@Model.Description</td>
+                    <td>@Model.PriceRange</td>
+                    <td>@Model.DisplayOrder</td>
+
+                    <td><a href="/Category/index">Back to list</a> | <a href="/Category/Edit/@Model.Id">Edit </a> | <a href="/Category/Delete/@Model.Id">Delete</a></td>
+                </tr>
+            
+        </tbody>
+    </table>
+</div>

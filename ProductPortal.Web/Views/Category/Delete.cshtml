@@ -1,0 +1,43 @@
+﻿@model CategoryViewModel
+@{
+    ViewBag.Title = "Category Delete";
+}
+    <div class="container">
+        <div class="alert alert-danger">
+            <strong>Are you Sure!</strong>  You want to delete Category @Model.Name
+        </div>
+        <table class="table table-striped">
+            <thead>
+                <tr>
+                    <th>@Html.LabelFor(x => x.Id)</th>
+                    <th>@Html.LabelFor(x => x.Name)</th>
+                    <th>@Html.LabelFor(x => x.Description)</th>
+                    <th>@Html.LabelFor(x => x.PriceRange)</th>
+                    <th>@Html.LabelFor(x => x.DisplayOrder)</th>
+                    <th>Action</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td>@Model.Id</td>
+                    <td>@Model.Name</td>
+                    <td>@Model.Description</td>
+                    <td>@Model.PriceRange</td>
+                    <td>@Model.DisplayOrder</td>
+
+                    <td><a href="/Product/index">Back to list</a> | <a href="/Category/Edit/@Model.Id">Edit </a></td>
+                </tr>
+                <tr>
+                    <td class="btn-group">
+                        @using (Html.BeginForm("DeleteCategory", "Category", FormMethod.Post))
+                        {
+                            @Html.HiddenFor(x => x.Id)
+                            <button type="submit" class="btn btn-danger">Confirm</button>
+
+                        }
+                        <a href="/Product/index" class="btn btn-primary">Cancel</a>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+    </div>

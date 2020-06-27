@@ -1,0 +1,47 @@
+﻿@model ProductViewModel
+@{
+    ViewBag.Title = "Create Product";
+}
+    <div class="container">
+        @using (Html.BeginForm("create", "product", FormMethod.Post))
+        {
+            <div class="form-group">
+                <label for="usr">Name:</label>
+                @Html.TextBoxFor(x => x.Name, new { @class = "form-control" })
+
+            </div>
+            <div class="form-group">
+                <label for="usr">Description:</label>
+                @Html.TextBoxFor(x => x.Description, new { @class = "form-control" })
+            </div>
+            <div class="form-group">
+                <label for="usr">Discount:</label>
+                @Html.TextBoxFor(x => x.Discount, new { @class = "form-control" })
+            </div>
+            <div class="form-group">
+                <label for="usr">ExpirationDate:</label>
+                @{ 
+                    Model.ExpirationDate = DateTime.Now;
+                }
+                @Html.EditorFor(x => x.ExpirationDate, new { htmlAttributes = new { @class = "form-control"} })
+            </div>
+            <div class="form-group">
+                <label for="usr">Price:</label>
+                @Html.TextBoxFor(x => x.Price, new { @class = "form-control" })
+            </div>
+            <div class="form-group">
+                <label for="usr">Quantity:</label>
+                @Html.TextBoxFor(x => x.Quantity, new { @class = "form-control" })
+            </div>
+            <div class="form-group">
+                <div class="dropdown">
+                    @Html.DropDownListFor(x => x.categoryId, new SelectList(Model.category, "Id", "Name"), "Select Category",new { @class="form-control"})
+
+                </div>
+            </div>
+            <div class="btn-group">
+                <button type="submit" class="btn btn-success">Save</button>
+                <a class="btn btn-danger" href="/Product/index">Cancel</a>
+            </div>
+        }
+    </div>

@@ -1,0 +1,46 @@
+﻿@model ProductViewModel
+@{
+    ViewBag.Title = "Product Delete";
+}
+    <div class="container">
+        <div class="alert alert-danger">
+            <strong>Are you Sure!</strong>  You want to delete @Model.Name
+        </div>
+        <table class="table table-striped">
+            <thead>
+                <tr>
+                    <th>@Html.LabelFor(x => x.Id)</th>
+                    <th>@Html.LabelFor(x => x.Name)</th>
+                    <th>@Html.LabelFor(x => x.Description)</th>
+                    <th>@Html.LabelFor(x => x.Quantity)</th>
+                    <th>@Html.LabelFor(x => x.Price)</th>
+                    <th>@Html.LabelFor(x => x.Discount)</th>
+                    <th>@Html.LabelFor(x => x.ExpirationDate)</th>
+                    <th>Action</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td>@Model.Id</td>
+                    <td>@Model.Name</td>
+                    <td>@Model.Description</td>
+                    <td>@Model.Quantity</td>
+                    <td>@Model.Price</td>
+                    <td>@Model.Discount</td>
+                    <td>@Model.ExpirationDate</td>
+                    <td><a href="/Product/index">Back to list</a> | <a href="/Product/Edit/@Model.Id">Edit </a></td>
+                </tr>
+                <tr>
+                    <td class="btn-group">
+                        @using (Html.BeginForm("DeleteProduct", "product", FormMethod.Post))
+                        {
+                            @Html.HiddenFor(x => x.Id)
+                            <button type="submit" class="btn btn-danger">Confirm</button>
+
+                        }
+                        <a href="/Product/index" class="btn btn-primary">Cancel</a>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+    </div>

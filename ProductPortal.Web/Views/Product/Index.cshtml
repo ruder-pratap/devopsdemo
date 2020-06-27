@@ -1,0 +1,39 @@
+﻿@model IEnumerable<ProductViewModel>
+@{ 
+    ViewBag.Title = "Product List";
+}
+<div class="container">
+
+    <table class="table table-striped">
+        <thead>
+            <tr>
+                <th>id</th>
+                <th>Name</th>
+                <th>Description</th>
+                <th>Quantity</th>
+                <th>Price</th>
+                <th>Discount</th>
+                <th>ExpirationDate</th>
+                <th>Action</th>
+                <th><a href="/product/Create/" class="class="btn btn-primary"">Create new</a></th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model)
+            {
+            <tr>
+                <td>@item.Id</td>
+                <td>@item.Name</td>
+                <td>@item.Description</td>
+                <td>@item.Quantity</td>
+                <td>@item.Price</td>
+                <td>@item.Discount.</td>
+                <td>@item.ExpirationDate</td>
+                <td><a href="/Product/Details/@item.Id">View </a>| <a href="/Product/Edit/@item.Id">Edit </a>| <a href="/Product/Delete/@item.Id">Delete</a></td>
+               
+
+            </tr>
+            }
+        </tbody>
+    </table>
+</div>

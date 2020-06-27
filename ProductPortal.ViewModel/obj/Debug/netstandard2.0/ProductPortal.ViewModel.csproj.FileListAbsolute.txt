@@ -1,0 +1,8 @@
+C:\Users\Ruder\source\repos\ProductPortal.Web\ProductPortal.ViewModel\bin\Debug\netstandard2.0\ProductPortal.ViewModel.deps.json
+C:\Users\Ruder\source\repos\ProductPortal.Web\ProductPortal.ViewModel\bin\Debug\netstandard2.0\ProductPortal.ViewModel.dll
+C:\Users\Ruder\source\repos\ProductPortal.Web\ProductPortal.ViewModel\bin\Debug\netstandard2.0\ProductPortal.ViewModel.pdb
+C:\Users\Ruder\source\repos\ProductPortal.Web\ProductPortal.ViewModel\obj\Debug\netstandard2.0\ProductPortal.ViewModel.csprojAssemblyReference.cache
+C:\Users\Ruder\source\repos\ProductPortal.Web\ProductPortal.ViewModel\obj\Debug\netstandard2.0\ProductPortal.ViewModel.AssemblyInfoInputs.cache
+C:\Users\Ruder\source\repos\ProductPortal.Web\ProductPortal.ViewModel\obj\Debug\netstandard2.0\ProductPortal.ViewModel.AssemblyInfo.cs
+C:\Users\Ruder\source\repos\ProductPortal.Web\ProductPortal.ViewModel\obj\Debug\netstandard2.0\ProductPortal.ViewModel.dll
+C:\Users\Ruder\source\repos\ProductPortal.Web\ProductPortal.ViewModel\obj\Debug\netstandard2.0\ProductPortal.ViewModel.pdb

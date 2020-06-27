@@ -1,0 +1,35 @@
+﻿@model CategoryViewModel
+@{
+    ViewData["Title"] = "Edit Product";
+}
+
+<h1>Edit</h1>
+
+<div class="container">
+    @using (Html.BeginForm("edit", "Category", FormMethod.Post))
+    {
+        @Html.HiddenFor(x=>x.Id)
+        <div class="form-group">
+            <label for="usr">Name:</label>
+            @Html.TextBoxFor(x => x.Name, new { @class = "form-control" })
+
+        </div>
+        <div class="form-group">
+            <label for="usr">Description:</label>
+            @Html.TextBoxFor(x => x.Description, new { @class = "form-control" })
+        </div>
+        <div class="form-group">
+            <label for="usr">PriceRange:</label>
+            @Html.TextBoxFor(x => x.PriceRange, new { @class = "form-control" })
+        </div>
+        <div class="form-group">
+            <label for="usr">DisplayOrder:</label>
+            @Html.TextBoxFor(x => x.DisplayOrder, new { @class = "form-control" })
+        </div>
+
+        <div class="form-group btn-group">
+            <button type="submit" class="btn btn-success">Save</button>
+            <a class="btn btn-danger" href="/Product/index">Cancel</a>
+        </div>
+    }
+</div>

@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Ruder\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Ruder\\.nuget\\packages"
+    ]
+  }
+}

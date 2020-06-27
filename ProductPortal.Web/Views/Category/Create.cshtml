@@ -1,0 +1,31 @@
+﻿@model CategoryViewModel
+@{
+    ViewBag.Title = "Create Category";
+}
+    <div class="container">
+        @using (Html.BeginForm("create", "Category", FormMethod.Post))
+        {
+            <div class="form-group">
+                <label for="usr">Name:</label>
+                @Html.TextBoxFor(x => x.Name, new { @class = "form-control" })
+
+            </div>
+            <div class="form-group">
+                <label for="usr">Description:</label>
+                @Html.TextBoxFor(x => x.Description, new { @class = "form-control" })
+            </div>
+            <div class="form-group">
+                <label for="usr">PriceRange:</label>
+                @Html.TextBoxFor(x => x.PriceRange, new { @class = "form-control" })
+            </div>
+            <div class="form-group">
+                <label for="usr">DisplayOrder:</label>
+                @Html.TextBoxFor(x => x.DisplayOrder, new { @class = "form-control" })
+            </div>
+           
+            <div class="btn-group">
+                <button type="submit" class="btn btn-success">Save</button>
+                <a class="btn btn-danger" href="/Product/index">Cancel</a>
+            </div>
+        }
+    </div>
