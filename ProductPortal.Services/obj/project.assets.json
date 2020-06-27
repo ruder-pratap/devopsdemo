@@ -4409,11 +4409,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Ruder\\source\\repos\\ProductPortal.Web\\ProductPortal.Services\\ProductPortal.Services.csproj",
+      "projectUniqueName": "D:\\RP\\DotNet\\Sample Projects\\ProductPortal.Web\\devopsdemo\\ProductPortal.Services\\ProductPortal.Services.csproj",
       "projectName": "ProductPortal.Services",
-      "projectPath": "C:\\Users\\Ruder\\source\\repos\\ProductPortal.Web\\ProductPortal.Services\\ProductPortal.Services.csproj",
+      "projectPath": "D:\\RP\\DotNet\\Sample Projects\\ProductPortal.Web\\devopsdemo\\ProductPortal.Services\\ProductPortal.Services.csproj",
       "packagesPath": "C:\\Users\\Ruder\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Ruder\\source\\repos\\ProductPortal.Web\\ProductPortal.Services\\obj\\",
+      "outputPath": "D:\\RP\\DotNet\\Sample Projects\\ProductPortal.Web\\devopsdemo\\ProductPortal.Services\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Ruder\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -4429,14 +4429,14 @@
       "frameworks": {
         "netstandard2.0": {
           "projectReferences": {
-            "C:\\Users\\Ruder\\source\\repos\\ProductPortal.Web\\ProductPortal.Common\\ProductPortal.Common.csproj": {
-              "projectPath": "C:\\Users\\Ruder\\source\\repos\\ProductPortal.Web\\ProductPortal.Common\\ProductPortal.Common.csproj"
+            "D:\\RP\\DotNet\\Sample Projects\\ProductPortal.Web\\devopsdemo\\ProductPortal.Common\\ProductPortal.Common.csproj": {
+              "projectPath": "D:\\RP\\DotNet\\Sample Projects\\ProductPortal.Web\\devopsdemo\\ProductPortal.Common\\ProductPortal.Common.csproj"
             },
-            "C:\\Users\\Ruder\\source\\repos\\ProductPortal.Web\\ProductPortal.Model\\ProductPortal.Model.csproj": {
-              "projectPath": "C:\\Users\\Ruder\\source\\repos\\ProductPortal.Web\\ProductPortal.Model\\ProductPortal.Model.csproj"
+            "D:\\RP\\DotNet\\Sample Projects\\ProductPortal.Web\\devopsdemo\\ProductPortal.Model\\ProductPortal.Model.csproj": {
+              "projectPath": "D:\\RP\\DotNet\\Sample Projects\\ProductPortal.Web\\devopsdemo\\ProductPortal.Model\\ProductPortal.Model.csproj"
             },
-            "C:\\Users\\Ruder\\source\\repos\\ProductPortal.Web\\ProductPortal.ViewModel\\ProductPortal.ViewModel.csproj": {
-              "projectPath": "C:\\Users\\Ruder\\source\\repos\\ProductPortal.Web\\ProductPortal.ViewModel\\ProductPortal.ViewModel.csproj"
+            "D:\\RP\\DotNet\\Sample Projects\\ProductPortal.Web\\devopsdemo\\ProductPortal.ViewModel\\ProductPortal.ViewModel.csproj": {
+              "projectPath": "D:\\RP\\DotNet\\Sample Projects\\ProductPortal.Web\\devopsdemo\\ProductPortal.ViewModel\\ProductPortal.ViewModel.csproj"
             }
           }
         }
@@ -4483,7 +4483,7 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
       }
     }
   }

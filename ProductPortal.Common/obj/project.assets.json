@@ -185,11 +185,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Ruder\\source\\repos\\ProductPortal.Web\\ProductPortal.Common\\ProductPortal.Common.csproj",
+      "projectUniqueName": "D:\\RP\\DotNet\\Sample Projects\\ProductPortal.Web\\devopsdemo\\ProductPortal.Common\\ProductPortal.Common.csproj",
       "projectName": "ProductPortal.Common",
-      "projectPath": "C:\\Users\\Ruder\\source\\repos\\ProductPortal.Web\\ProductPortal.Common\\ProductPortal.Common.csproj",
+      "projectPath": "D:\\RP\\DotNet\\Sample Projects\\ProductPortal.Web\\devopsdemo\\ProductPortal.Common\\ProductPortal.Common.csproj",
       "packagesPath": "C:\\Users\\Ruder\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Ruder\\source\\repos\\ProductPortal.Web\\ProductPortal.Common\\obj\\",
+      "outputPath": "D:\\RP\\DotNet\\Sample Projects\\ProductPortal.Web\\devopsdemo\\ProductPortal.Common\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Ruder\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -233,7 +233,7 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
       }
     }
   }

@@ -6,3 +6,12 @@ C:\Users\Ruder\source\repos\ProductPortal.Web\ProductPortal.Model\obj\Debug\nets
 C:\Users\Ruder\source\repos\ProductPortal.Web\ProductPortal.Model\obj\Debug\netstandard2.0\ProductPortal.Model.AssemblyInfo.cs
 C:\Users\Ruder\source\repos\ProductPortal.Web\ProductPortal.Model\obj\Debug\netstandard2.0\ProductPortal.Model.dll
 C:\Users\Ruder\source\repos\ProductPortal.Web\ProductPortal.Model\obj\Debug\netstandard2.0\ProductPortal.Model.pdb
+D:\RP\DotNet\Sample Projects\ProductPortal.Web\devopsdemo\ProductPortal.Model\bin\Debug\netstandard2.0\ProductPortal.Model.deps.json
+D:\RP\DotNet\Sample Projects\ProductPortal.Web\devopsdemo\ProductPortal.Model\bin\Debug\netstandard2.0\ProductPortal.Model.dll
+D:\RP\DotNet\Sample Projects\ProductPortal.Web\devopsdemo\ProductPortal.Model\bin\Debug\netstandard2.0\ProductPortal.Model.pdb
+D:\RP\DotNet\Sample Projects\ProductPortal.Web\devopsdemo\ProductPortal.Model\obj\Debug\netstandard2.0\ProductPortal.Model.csprojAssemblyReference.cache
+D:\RP\DotNet\Sample Projects\ProductPortal.Web\devopsdemo\ProductPortal.Model\obj\Debug\netstandard2.0\ProductPortal.Model.AssemblyInfoInputs.cache
+D:\RP\DotNet\Sample Projects\ProductPortal.Web\devopsdemo\ProductPortal.Model\obj\Debug\netstandard2.0\ProductPortal.Model.AssemblyInfo.cs
+D:\RP\DotNet\Sample Projects\ProductPortal.Web\devopsdemo\ProductPortal.Model\obj\Debug\netstandard2.0\ProductPortal.Model.csproj.CoreCompileInputs.cache
+D:\RP\DotNet\Sample Projects\ProductPortal.Web\devopsdemo\ProductPortal.Model\obj\Debug\netstandard2.0\ProductPortal.Model.dll
+D:\RP\DotNet\Sample Projects\ProductPortal.Web\devopsdemo\ProductPortal.Model\obj\Debug\netstandard2.0\ProductPortal.Model.pdb

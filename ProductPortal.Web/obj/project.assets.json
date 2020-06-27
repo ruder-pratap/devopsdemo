@@ -6842,11 +6842,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Ruder\\source\\repos\\ProductPortal.Web\\ProductPortal.Web\\ProductPortal.Web.csproj",
+      "projectUniqueName": "D:\\RP\\DotNet\\Sample Projects\\ProductPortal.Web\\devopsdemo\\ProductPortal.Web\\ProductPortal.Web.csproj",
       "projectName": "ProductPortal.Web",
-      "projectPath": "C:\\Users\\Ruder\\source\\repos\\ProductPortal.Web\\ProductPortal.Web\\ProductPortal.Web.csproj",
+      "projectPath": "D:\\RP\\DotNet\\Sample Projects\\ProductPortal.Web\\devopsdemo\\ProductPortal.Web\\ProductPortal.Web.csproj",
       "packagesPath": "C:\\Users\\Ruder\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Ruder\\source\\repos\\ProductPortal.Web\\ProductPortal.Web\\obj\\",
+      "outputPath": "D:\\RP\\DotNet\\Sample Projects\\ProductPortal.Web\\devopsdemo\\ProductPortal.Web\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Ruder\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -6862,11 +6862,11 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\Users\\Ruder\\source\\repos\\ProductPortal.Web\\ProductPortal.Services\\ProductPortal.Services.csproj": {
-              "projectPath": "C:\\Users\\Ruder\\source\\repos\\ProductPortal.Web\\ProductPortal.Services\\ProductPortal.Services.csproj"
+            "D:\\RP\\DotNet\\Sample Projects\\ProductPortal.Web\\devopsdemo\\ProductPortal.Services\\ProductPortal.Services.csproj": {
+              "projectPath": "D:\\RP\\DotNet\\Sample Projects\\ProductPortal.Web\\devopsdemo\\ProductPortal.Services\\ProductPortal.Services.csproj"
             },
-            "C:\\Users\\Ruder\\source\\repos\\ProductPortal.Web\\ProductPortal.ViewModel\\ProductPortal.ViewModel.csproj": {
-              "projectPath": "C:\\Users\\Ruder\\source\\repos\\ProductPortal.Web\\ProductPortal.ViewModel\\ProductPortal.ViewModel.csproj"
+            "D:\\RP\\DotNet\\Sample Projects\\ProductPortal.Web\\devopsdemo\\ProductPortal.ViewModel\\ProductPortal.ViewModel.csproj": {
+              "projectPath": "D:\\RP\\DotNet\\Sample Projects\\ProductPortal.Web\\devopsdemo\\ProductPortal.ViewModel\\ProductPortal.ViewModel.csproj"
             }
           }
         }
@@ -6903,7 +6903,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
       }
     }
   }

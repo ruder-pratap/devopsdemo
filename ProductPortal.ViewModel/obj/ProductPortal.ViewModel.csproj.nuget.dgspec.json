@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Ruder\\source\\repos\\ProductPortal.Web\\ProductPortal.ViewModel\\ProductPortal.ViewModel.csproj": {}
+    "D:\\RP\\DotNet\\Sample Projects\\ProductPortal.Web\\devopsdemo\\ProductPortal.ViewModel\\ProductPortal.ViewModel.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Ruder\\source\\repos\\ProductPortal.Web\\ProductPortal.ViewModel\\ProductPortal.ViewModel.csproj": {
+    "D:\\RP\\DotNet\\Sample Projects\\ProductPortal.Web\\devopsdemo\\ProductPortal.ViewModel\\ProductPortal.ViewModel.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Ruder\\source\\repos\\ProductPortal.Web\\ProductPortal.ViewModel\\ProductPortal.ViewModel.csproj",
+        "projectUniqueName": "D:\\RP\\DotNet\\Sample Projects\\ProductPortal.Web\\devopsdemo\\ProductPortal.ViewModel\\ProductPortal.ViewModel.csproj",
         "projectName": "ProductPortal.ViewModel",
-        "projectPath": "C:\\Users\\Ruder\\source\\repos\\ProductPortal.Web\\ProductPortal.ViewModel\\ProductPortal.ViewModel.csproj",
+        "projectPath": "D:\\RP\\DotNet\\Sample Projects\\ProductPortal.Web\\devopsdemo\\ProductPortal.ViewModel\\ProductPortal.ViewModel.csproj",
         "packagesPath": "C:\\Users\\Ruder\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Ruder\\source\\repos\\ProductPortal.Web\\ProductPortal.ViewModel\\obj\\",
+        "outputPath": "D:\\RP\\DotNet\\Sample Projects\\ProductPortal.Web\\devopsdemo\\ProductPortal.ViewModel\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Ruder\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -59,7 +59,7 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
         }
       }
     }
