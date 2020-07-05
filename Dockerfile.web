@@ -3,5 +3,5 @@ COPY ProductPortal.Web/dist /app
 WORKDIR /app
 ENV ASPNETCORE_ENVIRONMENT=Development
 ENV ASPNETCORE_URLS=http://+:56551 
-EXPOSE 56551/tcp
+EXPOSE 56551
 ENTRYPOINT ["dotnet", "ProductPortal.Web.dll"]

@@ -438,3 +438,9 @@ D:/RP/DotNet/Sample Projects/ProductPortal.Web/devopsdemo/ProductPortal.Web/obj/
 /home/ezcoderz/Desktop/productPortal/devopsdemo/ProductPortal.Web/bin/Debug/netcoreapp3.1/dist/ProductPortal.Web.deps.json
 /home/ezcoderz/Desktop/productPortal/devopsdemo/ProductPortal.Web/bin/Debug/netcoreapp3.1/dist/ProductPortal.Web.runtimeconfig.json
 /home/ezcoderz/Desktop/productPortal/devopsdemo/ProductPortal.Web/bin/Debug/netcoreapp3.1/dist/runtimeconfig.template.json
+/home/ezcoderz/Desktop/productPortal/devopsdemo/ProductPortal.Web/bin/Debug/netcoreapp3.1/dist/dist/web.config
+/home/ezcoderz/Desktop/productPortal/devopsdemo/ProductPortal.Web/bin/Debug/netcoreapp3.1/dist/dist/appsettings.Development.json
+/home/ezcoderz/Desktop/productPortal/devopsdemo/ProductPortal.Web/bin/Debug/netcoreapp3.1/dist/dist/appsettings.json
+/home/ezcoderz/Desktop/productPortal/devopsdemo/ProductPortal.Web/bin/Debug/netcoreapp3.1/dist/dist/ProductPortal.Web.deps.json
+/home/ezcoderz/Desktop/productPortal/devopsdemo/ProductPortal.Web/bin/Debug/netcoreapp3.1/dist/dist/ProductPortal.Web.runtimeconfig.json
+/home/ezcoderz/Desktop/productPortal/devopsdemo/ProductPortal.Web/bin/Debug/netcoreapp3.1/dist/dist/runtimeconfig.template.json

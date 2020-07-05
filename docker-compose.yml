@@ -1,32 +1,53 @@
-version: '3'
+version: '3.4'
 
 volumes: 
-    datafiles:
+    datafile:
+
+networks: 
+    portalnetwork:
+        driver: bridge
+
 
 services:
+
     db:
-        image: mysql:8.0.0
+        image: mysql
+        container_name: mysqldb
         volumes: 
-            - datafiles:/var/lib/mysql
+            - datafile:/var/lib/mysql
         restart: always
         environment: 
             MYSQL_ROOT_PASSWORD: database
+        networks: 
+            - portalnetwork
 
-    core:
+    core-api:
         build: 
             context: .
             dockerfile: Dockerfile
         depends_on: 
             - db
+        container_name: WebAPI
         ports: 
             - "56562:80"
         restart: always
         environment: 
             - DBHOST= db
-            - ASPNETCORE_ENVIRONMENT=Development
-    
-  
+        networks: 
+            - portalnetwork
 
-
+    web:
+        build: 
+            context: .
+            dockerfile: Dockerfile.web
+        container_name: WebApp
+        ports: 
+            - "56551:56551"
+        restart: always
+        networks: 
+            - portalnetwork
+        environment: 
+            - core=http://core-api/api/
+            
 
 

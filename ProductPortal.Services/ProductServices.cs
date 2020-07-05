@@ -8,16 +8,18 @@ using System;
 using System.Collections.Generic;
 using System.Net.Http;
 using System.Threading.Tasks;
+using Microsoft.Extensions.Configuration;
 
 namespace ProductPortal.Services
 {
     public class ProductServices : IProductServices
     {
         private readonly IMapper _mapper;
-
-        public ProductServices(IMapper mapper)
+        public IConfiguration Configuration { get; }
+        public ProductServices(IMapper mapper, IConfiguration configuration)
         {
             this._mapper = mapper;
+            Configuration = configuration;
         }
         public async Task<UserManagerResponse> CreateProductAsync(ProductViewModel model)
         {
@@ -32,7 +34,7 @@ namespace ProductPortal.Services
             _mapper.Map(model, data);
             using (var client = new HttpClient())
             {
-                client.BaseAddress = new Uri("http://localhost:56562/api/");
+                client.BaseAddress = new Uri(Configuration["core"]);
                 var responseMessage = await client.PostAsJsonAsync<Product>("Products/createproduct", data);
 
                 string result = responseMessage.Content.ReadAsStringAsync().Result;
@@ -60,7 +62,7 @@ namespace ProductPortal.Services
             var response = new UserManagerResponse();
             using (var client = new HttpClient())
             {
-                client.BaseAddress = new Uri("http://localhost:56562/api/");
+                client.BaseAddress = new Uri(Configuration["core"]);
                 var responseMessage = await client.DeleteAsync($"Products/productdelete/{id.ToString()}");
 
                 string result = responseMessage.Content.ReadAsStringAsync().Result;
@@ -90,7 +92,7 @@ namespace ProductPortal.Services
             _mapper.Map(model, data);
             using (var client = new HttpClient())
             {
-                client.BaseAddress = new Uri("http://localhost:56562/api/");
+                client.BaseAddress = new Uri(Configuration["core"]);
 
                 var responseMessage = await client.PutAsJsonAsync<Product>("Products/updateproduct", data);
 
@@ -114,7 +116,7 @@ namespace ProductPortal.Services
 
             using (var client = new HttpClient())
             {
-                client.BaseAddress = new Uri("http://localhost:56562/api/");
+                client.BaseAddress = new Uri(Configuration["core"]);
                 var httpContent = await client.GetAsync("Products/getallproducts");
 
                 string result = httpContent.Content.ReadAsStringAsync().Result;
@@ -139,7 +141,7 @@ namespace ProductPortal.Services
 
             using (var client = new HttpClient())
             {
-                client.BaseAddress = new Uri("http://localhost:56562/api/");
+                client.BaseAddress = new Uri(Configuration["core"]);
                 var httpContent = await client.GetAsync($"Products/getProduct/{id}");
 
                 string result = httpContent.Content.ReadAsStringAsync().Result;
@@ -163,7 +165,7 @@ namespace ProductPortal.Services
 
             using (var client = new HttpClient())
             {
-                client.BaseAddress = new Uri("http://localhost:56562/api/");
+                client.BaseAddress = new Uri(Configuration["core"]);
                 var httpContent = await client.GetAsync($"Products/SearchProduct/{name}");
 
                 string result = httpContent.Content.ReadAsStringAsync().Result;
