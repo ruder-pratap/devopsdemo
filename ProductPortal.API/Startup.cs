@@ -43,11 +43,13 @@ namespace ProductPortal.API
             var port = Configuration["DBPORT"]??"3306";
             var password = Configuration["DBPASSWORD"]??"database";
 
-            services.AddDbContextPool<AppDbContext>(opt =>
-            {
-                opt.UseMySQL($"server={host}; userid=root; pwd={password}; port={port}; database=mysqldb;");
-            } 
-            );
+            // services.AddDbContext<AppDbContext>(opt =>
+            // {
+            //     opt.UseMySQL($"server={host}; userid=root; pwd={password}; port={port}; database=PortalDataBase;");
+            // } 
+            // );
+
+            services.AddDbContext<AppDbContext>();
 
             services.AddScoped<IProductRepository, ProductRepository>();
             services.AddScoped<ICategoryRepository, CategoryRepository>();
