@@ -18,7 +18,7 @@ namespace ProductPortal.Repository.MyDbContext
          protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
             optionsBuilder
-        .UseMySql("Server=192.168.56.101; Port=3308; Database=PortalDataBase; Uid=apiuser; Pwd=database;", options => options.EnableRetryOnFailure());
+        .UseMySql("Server=ezportaldb.mysql.database.azure.com; Port=3306; Database=portalDb; Uid=ezcoder@ezportaldb; Pwd=Pankaj@123; SslMode=Preferred;", options => options.EnableRetryOnFailure());
 
             //base.OnConfiguring(optionsBuilder);
         }
