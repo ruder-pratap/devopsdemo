@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 C:\Users\Ruder\source\repos\ProductPortal.Web\ProductPortal.API\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
 C:\Users\Ruder\source\repos\ProductPortal.Web\ProductPortal.API\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
 C:\Users\Ruder\source\repos\ProductPortal.Web\ProductPortal.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
@@ -266,3 +267,430 @@ D:\RP\DotNet\Sample Projects\ProductPortal.Web\devopsdemo\ProductPortal.API\bin\
 D:\RP\DotNet\Sample Projects\ProductPortal.Web\devopsdemo\ProductPortal.API\obj\Debug\netcoreapp3.1\ProductPortal.API.csproj.CoreCompileInputs.cache
 D:\RP\DotNet\Sample Projects\ProductPortal.Web\devopsdemo\ProductPortal.API\obj\Debug\netcoreapp3.1\ProductPortal.API.MvcApplicationPartsAssemblyInfo.cache
 D:\RP\DotNet\Sample Projects\ProductPortal.Web\devopsdemo\ProductPortal.API\bin\Debug\netcoreapp3.1\runtimeconfig.template.json
+=======
+C:/Users/Ruder/source/repos/ProductPortal.Web/ProductPortal.API/bin/Debug/netcoreapp3.1/Microsoft.Bcl.AsyncInterfaces.dll
+C:/Users/Ruder/source/repos/ProductPortal.Web/ProductPortal.API/bin/Debug/netcoreapp3.1/Microsoft.Bcl.HashCode.dll
+C:/Users/Ruder/source/repos/ProductPortal.Web/ProductPortal.API/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.dll
+C:/Users/Ruder/source/repos/ProductPortal.Web/ProductPortal.API/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Abstractions.dll
+C:/Users/Ruder/source/repos/ProductPortal.Web/ProductPortal.API/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Caching.Abstractions.dll
+C:/Users/Ruder/source/repos/ProductPortal.Web/ProductPortal.API/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Caching.Memory.dll
+C:/Users/Ruder/source/repos/ProductPortal.Web/ProductPortal.API/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.dll
+C:/Users/Ruder/source/repos/ProductPortal.Web/ProductPortal.API/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.Abstractions.dll
+C:/Users/Ruder/source/repos/ProductPortal.Web/ProductPortal.API/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.Binder.dll
+C:/Users/Ruder/source/repos/ProductPortal.Web/ProductPortal.API/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyInjection.dll
+C:/Users/Ruder/source/repos/ProductPortal.Web/ProductPortal.API/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:/Users/Ruder/source/repos/ProductPortal.Web/ProductPortal.API/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Logging.dll
+C:/Users/Ruder/source/repos/ProductPortal.Web/ProductPortal.API/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Logging.Abstractions.dll
+C:/Users/Ruder/source/repos/ProductPortal.Web/ProductPortal.API/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Options.dll
+C:/Users/Ruder/source/repos/ProductPortal.Web/ProductPortal.API/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Primitives.dll
+C:/Users/Ruder/source/repos/ProductPortal.Web/ProductPortal.API/bin/Debug/netcoreapp3.1/System.Collections.Immutable.dll
+C:/Users/Ruder/source/repos/ProductPortal.Web/ProductPortal.API/bin/Debug/netcoreapp3.1/System.Diagnostics.DiagnosticSource.dll
+C:/Users/Ruder/source/repos/ProductPortal.Web/ProductPortal.API/bin/Debug/netcoreapp3.1/ProductPortal.Model.dll
+C:/Users/Ruder/source/repos/ProductPortal.Web/ProductPortal.API/bin/Debug/netcoreapp3.1/ProductPortal.Repository.dll
+C:/Users/Ruder/source/repos/ProductPortal.Web/ProductPortal.API/obj/Debug/netcoreapp3.1/ProductPortal.API.csprojAssemblyReference.cache
+C:/Users/Ruder/source/repos/ProductPortal.Web/ProductPortal.API/obj/Debug/netcoreapp3.1/staticwebassets/ProductPortal.API.StaticWebAssets.Manifest.cache
+C:/Users/Ruder/source/repos/ProductPortal.Web/ProductPortal.API/obj/Debug/netcoreapp3.1/staticwebassets/ProductPortal.API.StaticWebAssets.xml
+C:/Users/Ruder/source/repos/ProductPortal.Web/ProductPortal.API/obj/Debug/netcoreapp3.1/ProductPortal.API.AssemblyInfoInputs.cache
+C:/Users/Ruder/source/repos/ProductPortal.Web/ProductPortal.API/obj/Debug/netcoreapp3.1/ProductPortal.API.AssemblyInfo.cs
+C:/Users/Ruder/source/repos/ProductPortal.Web/ProductPortal.API/obj/Debug/netcoreapp3.1/ProductPortal.API.RazorTargetAssemblyInfo.cache
+C:/Users/Ruder/source/repos/ProductPortal.Web/ProductPortal.API/bin/Debug/netcoreapp3.1/appsettings.Development.json
+C:/Users/Ruder/source/repos/ProductPortal.Web/ProductPortal.API/bin/Debug/netcoreapp3.1/appsettings.json
+C:/Users/Ruder/source/repos/ProductPortal.Web/ProductPortal.API/bin/Debug/netcoreapp3.1/Properties/launchSettings.json
+C:/Users/Ruder/source/repos/ProductPortal.Web/ProductPortal.API/bin/Debug/netcoreapp3.1/ProductPortal.API.exe
+C:/Users/Ruder/source/repos/ProductPortal.Web/ProductPortal.API/bin/Debug/netcoreapp3.1/ProductPortal.API.deps.json
+C:/Users/Ruder/source/repos/ProductPortal.Web/ProductPortal.API/bin/Debug/netcoreapp3.1/ProductPortal.API.runtimeconfig.json
+C:/Users/Ruder/source/repos/ProductPortal.Web/ProductPortal.API/bin/Debug/netcoreapp3.1/ProductPortal.API.runtimeconfig.dev.json
+C:/Users/Ruder/source/repos/ProductPortal.Web/ProductPortal.API/bin/Debug/netcoreapp3.1/ProductPortal.API.dll
+C:/Users/Ruder/source/repos/ProductPortal.Web/ProductPortal.API/bin/Debug/netcoreapp3.1/ProductPortal.API.pdb
+C:/Users/Ruder/source/repos/ProductPortal.Web/ProductPortal.API/bin/Debug/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+C:/Users/Ruder/source/repos/ProductPortal.Web/ProductPortal.API/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Relational.dll
+C:/Users/Ruder/source/repos/ProductPortal.Web/ProductPortal.API/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.SqlServer.dll
+C:/Users/Ruder/source/repos/ProductPortal.Web/ProductPortal.API/bin/Debug/netcoreapp3.1/Microsoft.Identity.Client.dll
+C:/Users/Ruder/source/repos/ProductPortal.Web/ProductPortal.API/bin/Debug/netcoreapp3.1/System.Configuration.ConfigurationManager.dll
+C:/Users/Ruder/source/repos/ProductPortal.Web/ProductPortal.API/bin/Debug/netcoreapp3.1/System.Runtime.Caching.dll
+C:/Users/Ruder/source/repos/ProductPortal.Web/ProductPortal.API/bin/Debug/netcoreapp3.1/System.Security.Cryptography.ProtectedData.dll
+C:/Users/Ruder/source/repos/ProductPortal.Web/ProductPortal.API/bin/Debug/netcoreapp3.1/runtimes/unix/lib/netcoreapp2.1/Microsoft.Data.SqlClient.dll
+C:/Users/Ruder/source/repos/ProductPortal.Web/ProductPortal.API/bin/Debug/netcoreapp3.1/runtimes/win/lib/netcoreapp2.1/Microsoft.Data.SqlClient.dll
+C:/Users/Ruder/source/repos/ProductPortal.Web/ProductPortal.API/bin/Debug/netcoreapp3.1/runtimes/win-arm64/native/sni.dll
+C:/Users/Ruder/source/repos/ProductPortal.Web/ProductPortal.API/bin/Debug/netcoreapp3.1/runtimes/win-x64/native/sni.dll
+C:/Users/Ruder/source/repos/ProductPortal.Web/ProductPortal.API/bin/Debug/netcoreapp3.1/runtimes/win-x86/native/sni.dll
+C:/Users/Ruder/source/repos/ProductPortal.Web/ProductPortal.API/bin/Debug/netcoreapp3.1/runtimes/unix/lib/netcoreapp2.0/System.Runtime.Caching.dll
+C:/Users/Ruder/source/repos/ProductPortal.Web/ProductPortal.API/bin/Debug/netcoreapp3.1/runtimes/win/lib/netcoreapp2.0/System.Runtime.Caching.dll
+C:/Users/Ruder/source/repos/ProductPortal.Web/ProductPortal.API/bin/Debug/netcoreapp3.1/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+C:/Users/Ruder/source/repos/ProductPortal.Web/ProductPortal.API/bin/Debug/netcoreapp3.1/ProductPortal.Model.pdb
+C:/Users/Ruder/source/repos/ProductPortal.Web/ProductPortal.API/bin/Debug/netcoreapp3.1/ProductPortal.Repository.pdb
+C:/Users/Ruder/source/repos/ProductPortal.Web/ProductPortal.API/obj/Debug/netcoreapp3.1/ProductPortal.API.csproj.CopyComplete
+C:/Users/Ruder/source/repos/ProductPortal.Web/ProductPortal.API/obj/Debug/netcoreapp3.1/ProductPortal.API.dll
+C:/Users/Ruder/source/repos/ProductPortal.Web/ProductPortal.API/obj/Debug/netcoreapp3.1/ProductPortal.API.pdb
+C:/Users/Ruder/source/repos/ProductPortal.Web/ProductPortal.API/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Design.dll
+C:/Users/Ruder/source/repos/ProductPortal.Web/ProductPortal.API/bin/Debug/netcoreapp3.1/ProductPortal.Common.dll
+C:/Users/Ruder/source/repos/ProductPortal.Web/ProductPortal.API/bin/Debug/netcoreapp3.1/ProductPortal.Common.pdb
+C:/Users/Ruder/source/repos/ProductPortal.Web/ProductPortal.API/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.Razor.Language.dll
+C:/Users/Ruder/source/repos/ProductPortal.Web/ProductPortal.API/bin/Debug/netcoreapp3.1/Microsoft.CodeAnalysis.dll
+C:/Users/Ruder/source/repos/ProductPortal.Web/ProductPortal.API/bin/Debug/netcoreapp3.1/Microsoft.CodeAnalysis.CSharp.dll
+C:/Users/Ruder/source/repos/ProductPortal.Web/ProductPortal.API/bin/Debug/netcoreapp3.1/Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:/Users/Ruder/source/repos/ProductPortal.Web/ProductPortal.API/bin/Debug/netcoreapp3.1/Microsoft.CodeAnalysis.Razor.dll
+C:/Users/Ruder/source/repos/ProductPortal.Web/ProductPortal.API/bin/Debug/netcoreapp3.1/Microsoft.CodeAnalysis.Workspaces.dll
+C:/Users/Ruder/source/repos/ProductPortal.Web/ProductPortal.API/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:/Users/Ruder/source/repos/ProductPortal.Web/ProductPortal.API/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:/Users/Ruder/source/repos/ProductPortal.Web/ProductPortal.API/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:/Users/Ruder/source/repos/ProductPortal.Web/ProductPortal.API/bin/Debug/netcoreapp3.1/dotnet-aspnet-codegenerator-design.dll
+C:/Users/Ruder/source/repos/ProductPortal.Web/ProductPortal.API/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:/Users/Ruder/source/repos/ProductPortal.Web/ProductPortal.API/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:/Users/Ruder/source/repos/ProductPortal.Web/ProductPortal.API/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:/Users/Ruder/source/repos/ProductPortal.Web/ProductPortal.API/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:/Users/Ruder/source/repos/ProductPortal.Web/ProductPortal.API/bin/Debug/netcoreapp3.1/Newtonsoft.Json.dll
+C:/Users/Ruder/source/repos/ProductPortal.Web/ProductPortal.API/bin/Debug/netcoreapp3.1/NuGet.Frameworks.dll
+C:/Users/Ruder/source/repos/ProductPortal.Web/ProductPortal.API/bin/Debug/netcoreapp3.1/System.Composition.AttributedModel.dll
+C:/Users/Ruder/source/repos/ProductPortal.Web/ProductPortal.API/bin/Debug/netcoreapp3.1/System.Composition.Convention.dll
+C:/Users/Ruder/source/repos/ProductPortal.Web/ProductPortal.API/bin/Debug/netcoreapp3.1/System.Composition.Hosting.dll
+C:/Users/Ruder/source/repos/ProductPortal.Web/ProductPortal.API/bin/Debug/netcoreapp3.1/System.Composition.Runtime.dll
+C:/Users/Ruder/source/repos/ProductPortal.Web/ProductPortal.API/bin/Debug/netcoreapp3.1/System.Composition.TypedParts.dll
+C:/Users/Ruder/source/repos/ProductPortal.Web/ProductPortal.API/bin/Debug/netcoreapp3.1/cs/Microsoft.CodeAnalysis.resources.dll
+C:/Users/Ruder/source/repos/ProductPortal.Web/ProductPortal.API/bin/Debug/netcoreapp3.1/de/Microsoft.CodeAnalysis.resources.dll
+C:/Users/Ruder/source/repos/ProductPortal.Web/ProductPortal.API/bin/Debug/netcoreapp3.1/es/Microsoft.CodeAnalysis.resources.dll
+C:/Users/Ruder/source/repos/ProductPortal.Web/ProductPortal.API/bin/Debug/netcoreapp3.1/fr/Microsoft.CodeAnalysis.resources.dll
+C:/Users/Ruder/source/repos/ProductPortal.Web/ProductPortal.API/bin/Debug/netcoreapp3.1/it/Microsoft.CodeAnalysis.resources.dll
+C:/Users/Ruder/source/repos/ProductPortal.Web/ProductPortal.API/bin/Debug/netcoreapp3.1/ja/Microsoft.CodeAnalysis.resources.dll
+C:/Users/Ruder/source/repos/ProductPortal.Web/ProductPortal.API/bin/Debug/netcoreapp3.1/ko/Microsoft.CodeAnalysis.resources.dll
+C:/Users/Ruder/source/repos/ProductPortal.Web/ProductPortal.API/bin/Debug/netcoreapp3.1/pl/Microsoft.CodeAnalysis.resources.dll
+C:/Users/Ruder/source/repos/ProductPortal.Web/ProductPortal.API/bin/Debug/netcoreapp3.1/pt-BR/Microsoft.CodeAnalysis.resources.dll
+C:/Users/Ruder/source/repos/ProductPortal.Web/ProductPortal.API/bin/Debug/netcoreapp3.1/ru/Microsoft.CodeAnalysis.resources.dll
+C:/Users/Ruder/source/repos/ProductPortal.Web/ProductPortal.API/bin/Debug/netcoreapp3.1/tr/Microsoft.CodeAnalysis.resources.dll
+C:/Users/Ruder/source/repos/ProductPortal.Web/ProductPortal.API/bin/Debug/netcoreapp3.1/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+C:/Users/Ruder/source/repos/ProductPortal.Web/ProductPortal.API/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+C:/Users/Ruder/source/repos/ProductPortal.Web/ProductPortal.API/bin/Debug/netcoreapp3.1/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/Ruder/source/repos/ProductPortal.Web/ProductPortal.API/bin/Debug/netcoreapp3.1/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/Ruder/source/repos/ProductPortal.Web/ProductPortal.API/bin/Debug/netcoreapp3.1/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/Ruder/source/repos/ProductPortal.Web/ProductPortal.API/bin/Debug/netcoreapp3.1/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/Ruder/source/repos/ProductPortal.Web/ProductPortal.API/bin/Debug/netcoreapp3.1/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/Ruder/source/repos/ProductPortal.Web/ProductPortal.API/bin/Debug/netcoreapp3.1/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/Ruder/source/repos/ProductPortal.Web/ProductPortal.API/bin/Debug/netcoreapp3.1/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/Ruder/source/repos/ProductPortal.Web/ProductPortal.API/bin/Debug/netcoreapp3.1/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/Ruder/source/repos/ProductPortal.Web/ProductPortal.API/bin/Debug/netcoreapp3.1/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/Ruder/source/repos/ProductPortal.Web/ProductPortal.API/bin/Debug/netcoreapp3.1/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/Ruder/source/repos/ProductPortal.Web/ProductPortal.API/bin/Debug/netcoreapp3.1/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/Ruder/source/repos/ProductPortal.Web/ProductPortal.API/bin/Debug/netcoreapp3.1/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/Ruder/source/repos/ProductPortal.Web/ProductPortal.API/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/Ruder/source/repos/ProductPortal.Web/ProductPortal.API/bin/Debug/netcoreapp3.1/cs/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/Ruder/source/repos/ProductPortal.Web/ProductPortal.API/bin/Debug/netcoreapp3.1/de/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/Ruder/source/repos/ProductPortal.Web/ProductPortal.API/bin/Debug/netcoreapp3.1/es/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/Ruder/source/repos/ProductPortal.Web/ProductPortal.API/bin/Debug/netcoreapp3.1/fr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/Ruder/source/repos/ProductPortal.Web/ProductPortal.API/bin/Debug/netcoreapp3.1/it/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/Ruder/source/repos/ProductPortal.Web/ProductPortal.API/bin/Debug/netcoreapp3.1/ja/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/Ruder/source/repos/ProductPortal.Web/ProductPortal.API/bin/Debug/netcoreapp3.1/ko/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/Ruder/source/repos/ProductPortal.Web/ProductPortal.API/bin/Debug/netcoreapp3.1/pl/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/Ruder/source/repos/ProductPortal.Web/ProductPortal.API/bin/Debug/netcoreapp3.1/pt-BR/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/Ruder/source/repos/ProductPortal.Web/ProductPortal.API/bin/Debug/netcoreapp3.1/ru/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/Ruder/source/repos/ProductPortal.Web/ProductPortal.API/bin/Debug/netcoreapp3.1/tr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/Ruder/source/repos/ProductPortal.Web/ProductPortal.API/bin/Debug/netcoreapp3.1/zh-Hans/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/Ruder/source/repos/ProductPortal.Web/ProductPortal.API/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/Ruder/source/repos/ProductPortal.Web/ProductPortal.API/bin/Debug/netcoreapp3.1/cs/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/Ruder/source/repos/ProductPortal.Web/ProductPortal.API/bin/Debug/netcoreapp3.1/de/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/Ruder/source/repos/ProductPortal.Web/ProductPortal.API/bin/Debug/netcoreapp3.1/es/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/Ruder/source/repos/ProductPortal.Web/ProductPortal.API/bin/Debug/netcoreapp3.1/fr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/Ruder/source/repos/ProductPortal.Web/ProductPortal.API/bin/Debug/netcoreapp3.1/it/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/Ruder/source/repos/ProductPortal.Web/ProductPortal.API/bin/Debug/netcoreapp3.1/ja/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/Ruder/source/repos/ProductPortal.Web/ProductPortal.API/bin/Debug/netcoreapp3.1/ko/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/Ruder/source/repos/ProductPortal.Web/ProductPortal.API/bin/Debug/netcoreapp3.1/pl/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/Ruder/source/repos/ProductPortal.Web/ProductPortal.API/bin/Debug/netcoreapp3.1/pt-BR/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/Ruder/source/repos/ProductPortal.Web/ProductPortal.API/bin/Debug/netcoreapp3.1/ru/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/Ruder/source/repos/ProductPortal.Web/ProductPortal.API/bin/Debug/netcoreapp3.1/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/Ruder/source/repos/ProductPortal.Web/ProductPortal.API/bin/Debug/netcoreapp3.1/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/Ruder/source/repos/ProductPortal.Web/ProductPortal.API/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/Ruder/source/repos/ProductPortal.Web/ProductPortal.API/obj/Debug/netcoreapp3.1/ProductPortal.API.MvcApplicationPartsAssemblyInfo.cache
+D:/RP/DotNet/Sample Projects/ProductPortal.Web/devopsdemo/ProductPortal.API/bin/Debug/netcoreapp3.1/appsettings.Development.json
+D:/RP/DotNet/Sample Projects/ProductPortal.Web/devopsdemo/ProductPortal.API/bin/Debug/netcoreapp3.1/appsettings.json
+D:/RP/DotNet/Sample Projects/ProductPortal.Web/devopsdemo/ProductPortal.API/bin/Debug/netcoreapp3.1/Properties/launchSettings.json
+D:/RP/DotNet/Sample Projects/ProductPortal.Web/devopsdemo/ProductPortal.API/bin/Debug/netcoreapp3.1/ProductPortal.API.exe
+D:/RP/DotNet/Sample Projects/ProductPortal.Web/devopsdemo/ProductPortal.API/bin/Debug/netcoreapp3.1/ProductPortal.API.deps.json
+D:/RP/DotNet/Sample Projects/ProductPortal.Web/devopsdemo/ProductPortal.API/bin/Debug/netcoreapp3.1/ProductPortal.API.runtimeconfig.json
+D:/RP/DotNet/Sample Projects/ProductPortal.Web/devopsdemo/ProductPortal.API/bin/Debug/netcoreapp3.1/ProductPortal.API.runtimeconfig.dev.json
+D:/RP/DotNet/Sample Projects/ProductPortal.Web/devopsdemo/ProductPortal.API/bin/Debug/netcoreapp3.1/ProductPortal.API.dll
+D:/RP/DotNet/Sample Projects/ProductPortal.Web/devopsdemo/ProductPortal.API/bin/Debug/netcoreapp3.1/ProductPortal.API.pdb
+D:/RP/DotNet/Sample Projects/ProductPortal.Web/devopsdemo/ProductPortal.API/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.Razor.Language.dll
+D:/RP/DotNet/Sample Projects/ProductPortal.Web/devopsdemo/ProductPortal.API/bin/Debug/netcoreapp3.1/Microsoft.Bcl.AsyncInterfaces.dll
+D:/RP/DotNet/Sample Projects/ProductPortal.Web/devopsdemo/ProductPortal.API/bin/Debug/netcoreapp3.1/Microsoft.Bcl.HashCode.dll
+D:/RP/DotNet/Sample Projects/ProductPortal.Web/devopsdemo/ProductPortal.API/bin/Debug/netcoreapp3.1/Microsoft.CodeAnalysis.dll
+D:/RP/DotNet/Sample Projects/ProductPortal.Web/devopsdemo/ProductPortal.API/bin/Debug/netcoreapp3.1/Microsoft.CodeAnalysis.CSharp.dll
+D:/RP/DotNet/Sample Projects/ProductPortal.Web/devopsdemo/ProductPortal.API/bin/Debug/netcoreapp3.1/Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:/RP/DotNet/Sample Projects/ProductPortal.Web/devopsdemo/ProductPortal.API/bin/Debug/netcoreapp3.1/Microsoft.CodeAnalysis.Razor.dll
+D:/RP/DotNet/Sample Projects/ProductPortal.Web/devopsdemo/ProductPortal.API/bin/Debug/netcoreapp3.1/Microsoft.CodeAnalysis.Workspaces.dll
+D:/RP/DotNet/Sample Projects/ProductPortal.Web/devopsdemo/ProductPortal.API/bin/Debug/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+D:/RP/DotNet/Sample Projects/ProductPortal.Web/devopsdemo/ProductPortal.API/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.dll
+D:/RP/DotNet/Sample Projects/ProductPortal.Web/devopsdemo/ProductPortal.API/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Abstractions.dll
+D:/RP/DotNet/Sample Projects/ProductPortal.Web/devopsdemo/ProductPortal.API/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Design.dll
+D:/RP/DotNet/Sample Projects/ProductPortal.Web/devopsdemo/ProductPortal.API/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Relational.dll
+D:/RP/DotNet/Sample Projects/ProductPortal.Web/devopsdemo/ProductPortal.API/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.SqlServer.dll
+D:/RP/DotNet/Sample Projects/ProductPortal.Web/devopsdemo/ProductPortal.API/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Caching.Abstractions.dll
+D:/RP/DotNet/Sample Projects/ProductPortal.Web/devopsdemo/ProductPortal.API/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Caching.Memory.dll
+D:/RP/DotNet/Sample Projects/ProductPortal.Web/devopsdemo/ProductPortal.API/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.dll
+D:/RP/DotNet/Sample Projects/ProductPortal.Web/devopsdemo/ProductPortal.API/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.Abstractions.dll
+D:/RP/DotNet/Sample Projects/ProductPortal.Web/devopsdemo/ProductPortal.API/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.Binder.dll
+D:/RP/DotNet/Sample Projects/ProductPortal.Web/devopsdemo/ProductPortal.API/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyInjection.dll
+D:/RP/DotNet/Sample Projects/ProductPortal.Web/devopsdemo/ProductPortal.API/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:/RP/DotNet/Sample Projects/ProductPortal.Web/devopsdemo/ProductPortal.API/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Logging.dll
+D:/RP/DotNet/Sample Projects/ProductPortal.Web/devopsdemo/ProductPortal.API/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Logging.Abstractions.dll
+D:/RP/DotNet/Sample Projects/ProductPortal.Web/devopsdemo/ProductPortal.API/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Options.dll
+D:/RP/DotNet/Sample Projects/ProductPortal.Web/devopsdemo/ProductPortal.API/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Primitives.dll
+D:/RP/DotNet/Sample Projects/ProductPortal.Web/devopsdemo/ProductPortal.API/bin/Debug/netcoreapp3.1/Microsoft.Identity.Client.dll
+D:/RP/DotNet/Sample Projects/ProductPortal.Web/devopsdemo/ProductPortal.API/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:/RP/DotNet/Sample Projects/ProductPortal.Web/devopsdemo/ProductPortal.API/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:/RP/DotNet/Sample Projects/ProductPortal.Web/devopsdemo/ProductPortal.API/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:/RP/DotNet/Sample Projects/ProductPortal.Web/devopsdemo/ProductPortal.API/bin/Debug/netcoreapp3.1/dotnet-aspnet-codegenerator-design.dll
+D:/RP/DotNet/Sample Projects/ProductPortal.Web/devopsdemo/ProductPortal.API/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:/RP/DotNet/Sample Projects/ProductPortal.Web/devopsdemo/ProductPortal.API/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:/RP/DotNet/Sample Projects/ProductPortal.Web/devopsdemo/ProductPortal.API/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:/RP/DotNet/Sample Projects/ProductPortal.Web/devopsdemo/ProductPortal.API/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:/RP/DotNet/Sample Projects/ProductPortal.Web/devopsdemo/ProductPortal.API/bin/Debug/netcoreapp3.1/Newtonsoft.Json.dll
+D:/RP/DotNet/Sample Projects/ProductPortal.Web/devopsdemo/ProductPortal.API/bin/Debug/netcoreapp3.1/NuGet.Frameworks.dll
+D:/RP/DotNet/Sample Projects/ProductPortal.Web/devopsdemo/ProductPortal.API/bin/Debug/netcoreapp3.1/System.Collections.Immutable.dll
+D:/RP/DotNet/Sample Projects/ProductPortal.Web/devopsdemo/ProductPortal.API/bin/Debug/netcoreapp3.1/System.Composition.AttributedModel.dll
+D:/RP/DotNet/Sample Projects/ProductPortal.Web/devopsdemo/ProductPortal.API/bin/Debug/netcoreapp3.1/System.Composition.Convention.dll
+D:/RP/DotNet/Sample Projects/ProductPortal.Web/devopsdemo/ProductPortal.API/bin/Debug/netcoreapp3.1/System.Composition.Hosting.dll
+D:/RP/DotNet/Sample Projects/ProductPortal.Web/devopsdemo/ProductPortal.API/bin/Debug/netcoreapp3.1/System.Composition.Runtime.dll
+D:/RP/DotNet/Sample Projects/ProductPortal.Web/devopsdemo/ProductPortal.API/bin/Debug/netcoreapp3.1/System.Composition.TypedParts.dll
+D:/RP/DotNet/Sample Projects/ProductPortal.Web/devopsdemo/ProductPortal.API/bin/Debug/netcoreapp3.1/System.Configuration.ConfigurationManager.dll
+D:/RP/DotNet/Sample Projects/ProductPortal.Web/devopsdemo/ProductPortal.API/bin/Debug/netcoreapp3.1/System.Diagnostics.DiagnosticSource.dll
+D:/RP/DotNet/Sample Projects/ProductPortal.Web/devopsdemo/ProductPortal.API/bin/Debug/netcoreapp3.1/System.Runtime.Caching.dll
+D:/RP/DotNet/Sample Projects/ProductPortal.Web/devopsdemo/ProductPortal.API/bin/Debug/netcoreapp3.1/System.Security.Cryptography.ProtectedData.dll
+D:/RP/DotNet/Sample Projects/ProductPortal.Web/devopsdemo/ProductPortal.API/bin/Debug/netcoreapp3.1/cs/Microsoft.CodeAnalysis.resources.dll
+D:/RP/DotNet/Sample Projects/ProductPortal.Web/devopsdemo/ProductPortal.API/bin/Debug/netcoreapp3.1/de/Microsoft.CodeAnalysis.resources.dll
+D:/RP/DotNet/Sample Projects/ProductPortal.Web/devopsdemo/ProductPortal.API/bin/Debug/netcoreapp3.1/es/Microsoft.CodeAnalysis.resources.dll
+D:/RP/DotNet/Sample Projects/ProductPortal.Web/devopsdemo/ProductPortal.API/bin/Debug/netcoreapp3.1/fr/Microsoft.CodeAnalysis.resources.dll
+D:/RP/DotNet/Sample Projects/ProductPortal.Web/devopsdemo/ProductPortal.API/bin/Debug/netcoreapp3.1/it/Microsoft.CodeAnalysis.resources.dll
+D:/RP/DotNet/Sample Projects/ProductPortal.Web/devopsdemo/ProductPortal.API/bin/Debug/netcoreapp3.1/ja/Microsoft.CodeAnalysis.resources.dll
+D:/RP/DotNet/Sample Projects/ProductPortal.Web/devopsdemo/ProductPortal.API/bin/Debug/netcoreapp3.1/ko/Microsoft.CodeAnalysis.resources.dll
+D:/RP/DotNet/Sample Projects/ProductPortal.Web/devopsdemo/ProductPortal.API/bin/Debug/netcoreapp3.1/pl/Microsoft.CodeAnalysis.resources.dll
+D:/RP/DotNet/Sample Projects/ProductPortal.Web/devopsdemo/ProductPortal.API/bin/Debug/netcoreapp3.1/pt-BR/Microsoft.CodeAnalysis.resources.dll
+D:/RP/DotNet/Sample Projects/ProductPortal.Web/devopsdemo/ProductPortal.API/bin/Debug/netcoreapp3.1/ru/Microsoft.CodeAnalysis.resources.dll
+D:/RP/DotNet/Sample Projects/ProductPortal.Web/devopsdemo/ProductPortal.API/bin/Debug/netcoreapp3.1/tr/Microsoft.CodeAnalysis.resources.dll
+D:/RP/DotNet/Sample Projects/ProductPortal.Web/devopsdemo/ProductPortal.API/bin/Debug/netcoreapp3.1/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+D:/RP/DotNet/Sample Projects/ProductPortal.Web/devopsdemo/ProductPortal.API/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+D:/RP/DotNet/Sample Projects/ProductPortal.Web/devopsdemo/ProductPortal.API/bin/Debug/netcoreapp3.1/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/RP/DotNet/Sample Projects/ProductPortal.Web/devopsdemo/ProductPortal.API/bin/Debug/netcoreapp3.1/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/RP/DotNet/Sample Projects/ProductPortal.Web/devopsdemo/ProductPortal.API/bin/Debug/netcoreapp3.1/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/RP/DotNet/Sample Projects/ProductPortal.Web/devopsdemo/ProductPortal.API/bin/Debug/netcoreapp3.1/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/RP/DotNet/Sample Projects/ProductPortal.Web/devopsdemo/ProductPortal.API/bin/Debug/netcoreapp3.1/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/RP/DotNet/Sample Projects/ProductPortal.Web/devopsdemo/ProductPortal.API/bin/Debug/netcoreapp3.1/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/RP/DotNet/Sample Projects/ProductPortal.Web/devopsdemo/ProductPortal.API/bin/Debug/netcoreapp3.1/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/RP/DotNet/Sample Projects/ProductPortal.Web/devopsdemo/ProductPortal.API/bin/Debug/netcoreapp3.1/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/RP/DotNet/Sample Projects/ProductPortal.Web/devopsdemo/ProductPortal.API/bin/Debug/netcoreapp3.1/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/RP/DotNet/Sample Projects/ProductPortal.Web/devopsdemo/ProductPortal.API/bin/Debug/netcoreapp3.1/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/RP/DotNet/Sample Projects/ProductPortal.Web/devopsdemo/ProductPortal.API/bin/Debug/netcoreapp3.1/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/RP/DotNet/Sample Projects/ProductPortal.Web/devopsdemo/ProductPortal.API/bin/Debug/netcoreapp3.1/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/RP/DotNet/Sample Projects/ProductPortal.Web/devopsdemo/ProductPortal.API/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/RP/DotNet/Sample Projects/ProductPortal.Web/devopsdemo/ProductPortal.API/bin/Debug/netcoreapp3.1/cs/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/RP/DotNet/Sample Projects/ProductPortal.Web/devopsdemo/ProductPortal.API/bin/Debug/netcoreapp3.1/de/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/RP/DotNet/Sample Projects/ProductPortal.Web/devopsdemo/ProductPortal.API/bin/Debug/netcoreapp3.1/es/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/RP/DotNet/Sample Projects/ProductPortal.Web/devopsdemo/ProductPortal.API/bin/Debug/netcoreapp3.1/fr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/RP/DotNet/Sample Projects/ProductPortal.Web/devopsdemo/ProductPortal.API/bin/Debug/netcoreapp3.1/it/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/RP/DotNet/Sample Projects/ProductPortal.Web/devopsdemo/ProductPortal.API/bin/Debug/netcoreapp3.1/ja/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/RP/DotNet/Sample Projects/ProductPortal.Web/devopsdemo/ProductPortal.API/bin/Debug/netcoreapp3.1/ko/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/RP/DotNet/Sample Projects/ProductPortal.Web/devopsdemo/ProductPortal.API/bin/Debug/netcoreapp3.1/pl/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/RP/DotNet/Sample Projects/ProductPortal.Web/devopsdemo/ProductPortal.API/bin/Debug/netcoreapp3.1/pt-BR/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/RP/DotNet/Sample Projects/ProductPortal.Web/devopsdemo/ProductPortal.API/bin/Debug/netcoreapp3.1/ru/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/RP/DotNet/Sample Projects/ProductPortal.Web/devopsdemo/ProductPortal.API/bin/Debug/netcoreapp3.1/tr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/RP/DotNet/Sample Projects/ProductPortal.Web/devopsdemo/ProductPortal.API/bin/Debug/netcoreapp3.1/zh-Hans/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/RP/DotNet/Sample Projects/ProductPortal.Web/devopsdemo/ProductPortal.API/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/RP/DotNet/Sample Projects/ProductPortal.Web/devopsdemo/ProductPortal.API/bin/Debug/netcoreapp3.1/cs/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/RP/DotNet/Sample Projects/ProductPortal.Web/devopsdemo/ProductPortal.API/bin/Debug/netcoreapp3.1/de/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/RP/DotNet/Sample Projects/ProductPortal.Web/devopsdemo/ProductPortal.API/bin/Debug/netcoreapp3.1/es/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/RP/DotNet/Sample Projects/ProductPortal.Web/devopsdemo/ProductPortal.API/bin/Debug/netcoreapp3.1/fr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/RP/DotNet/Sample Projects/ProductPortal.Web/devopsdemo/ProductPortal.API/bin/Debug/netcoreapp3.1/it/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/RP/DotNet/Sample Projects/ProductPortal.Web/devopsdemo/ProductPortal.API/bin/Debug/netcoreapp3.1/ja/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/RP/DotNet/Sample Projects/ProductPortal.Web/devopsdemo/ProductPortal.API/bin/Debug/netcoreapp3.1/ko/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/RP/DotNet/Sample Projects/ProductPortal.Web/devopsdemo/ProductPortal.API/bin/Debug/netcoreapp3.1/pl/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/RP/DotNet/Sample Projects/ProductPortal.Web/devopsdemo/ProductPortal.API/bin/Debug/netcoreapp3.1/pt-BR/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/RP/DotNet/Sample Projects/ProductPortal.Web/devopsdemo/ProductPortal.API/bin/Debug/netcoreapp3.1/ru/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/RP/DotNet/Sample Projects/ProductPortal.Web/devopsdemo/ProductPortal.API/bin/Debug/netcoreapp3.1/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/RP/DotNet/Sample Projects/ProductPortal.Web/devopsdemo/ProductPortal.API/bin/Debug/netcoreapp3.1/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/RP/DotNet/Sample Projects/ProductPortal.Web/devopsdemo/ProductPortal.API/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/RP/DotNet/Sample Projects/ProductPortal.Web/devopsdemo/ProductPortal.API/bin/Debug/netcoreapp3.1/runtimes/unix/lib/netcoreapp2.1/Microsoft.Data.SqlClient.dll
+D:/RP/DotNet/Sample Projects/ProductPortal.Web/devopsdemo/ProductPortal.API/bin/Debug/netcoreapp3.1/runtimes/win/lib/netcoreapp2.1/Microsoft.Data.SqlClient.dll
+D:/RP/DotNet/Sample Projects/ProductPortal.Web/devopsdemo/ProductPortal.API/bin/Debug/netcoreapp3.1/runtimes/win-arm64/native/sni.dll
+D:/RP/DotNet/Sample Projects/ProductPortal.Web/devopsdemo/ProductPortal.API/bin/Debug/netcoreapp3.1/runtimes/win-x64/native/sni.dll
+D:/RP/DotNet/Sample Projects/ProductPortal.Web/devopsdemo/ProductPortal.API/bin/Debug/netcoreapp3.1/runtimes/win-x86/native/sni.dll
+D:/RP/DotNet/Sample Projects/ProductPortal.Web/devopsdemo/ProductPortal.API/bin/Debug/netcoreapp3.1/runtimes/unix/lib/netcoreapp2.0/System.Runtime.Caching.dll
+D:/RP/DotNet/Sample Projects/ProductPortal.Web/devopsdemo/ProductPortal.API/bin/Debug/netcoreapp3.1/runtimes/win/lib/netcoreapp2.0/System.Runtime.Caching.dll
+D:/RP/DotNet/Sample Projects/ProductPortal.Web/devopsdemo/ProductPortal.API/bin/Debug/netcoreapp3.1/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+D:/RP/DotNet/Sample Projects/ProductPortal.Web/devopsdemo/ProductPortal.API/bin/Debug/netcoreapp3.1/ProductPortal.Common.dll
+D:/RP/DotNet/Sample Projects/ProductPortal.Web/devopsdemo/ProductPortal.API/bin/Debug/netcoreapp3.1/ProductPortal.Model.dll
+D:/RP/DotNet/Sample Projects/ProductPortal.Web/devopsdemo/ProductPortal.API/bin/Debug/netcoreapp3.1/ProductPortal.Repository.dll
+D:/RP/DotNet/Sample Projects/ProductPortal.Web/devopsdemo/ProductPortal.API/bin/Debug/netcoreapp3.1/ProductPortal.Model.pdb
+D:/RP/DotNet/Sample Projects/ProductPortal.Web/devopsdemo/ProductPortal.API/bin/Debug/netcoreapp3.1/ProductPortal.Repository.pdb
+D:/RP/DotNet/Sample Projects/ProductPortal.Web/devopsdemo/ProductPortal.API/bin/Debug/netcoreapp3.1/ProductPortal.Common.pdb
+D:/RP/DotNet/Sample Projects/ProductPortal.Web/devopsdemo/ProductPortal.API/obj/Debug/netcoreapp3.1/ProductPortal.API.csprojAssemblyReference.cache
+D:/RP/DotNet/Sample Projects/ProductPortal.Web/devopsdemo/ProductPortal.API/obj/Debug/netcoreapp3.1/ProductPortal.API.AssemblyInfoInputs.cache
+D:/RP/DotNet/Sample Projects/ProductPortal.Web/devopsdemo/ProductPortal.API/obj/Debug/netcoreapp3.1/ProductPortal.API.AssemblyInfo.cs
+D:/RP/DotNet/Sample Projects/ProductPortal.Web/devopsdemo/ProductPortal.API/obj/Debug/netcoreapp3.1/ProductPortal.API.RazorTargetAssemblyInfo.cache
+D:/RP/DotNet/Sample Projects/ProductPortal.Web/devopsdemo/ProductPortal.API/obj/Debug/netcoreapp3.1/ProductPortal.API.csproj.CopyComplete
+D:/RP/DotNet/Sample Projects/ProductPortal.Web/devopsdemo/ProductPortal.API/obj/Debug/netcoreapp3.1/staticwebassets/ProductPortal.API.StaticWebAssets.Manifest.cache
+D:/RP/DotNet/Sample Projects/ProductPortal.Web/devopsdemo/ProductPortal.API/obj/Debug/netcoreapp3.1/staticwebassets/ProductPortal.API.StaticWebAssets.xml
+D:/RP/DotNet/Sample Projects/ProductPortal.Web/devopsdemo/ProductPortal.API/obj/Debug/netcoreapp3.1/ProductPortal.API.dll
+D:/RP/DotNet/Sample Projects/ProductPortal.Web/devopsdemo/ProductPortal.API/obj/Debug/netcoreapp3.1/ProductPortal.API.pdb
+D:/RP/DotNet/Sample Projects/ProductPortal.Web/devopsdemo/ProductPortal.API/obj/Debug/netcoreapp3.1/ProductPortal.API.genruntimeconfig.cache
+D:/RP/DotNet/Sample Projects/ProductPortal.Web/devopsdemo/ProductPortal.API/bin/Debug/netcoreapp3.1/BouncyCastle.Crypto.dll
+D:/RP/DotNet/Sample Projects/ProductPortal.Web/devopsdemo/ProductPortal.API/bin/Debug/netcoreapp3.1/Google.Protobuf.dll
+D:/RP/DotNet/Sample Projects/ProductPortal.Web/devopsdemo/ProductPortal.API/bin/Debug/netcoreapp3.1/K4os.Compression.LZ4.dll
+D:/RP/DotNet/Sample Projects/ProductPortal.Web/devopsdemo/ProductPortal.API/bin/Debug/netcoreapp3.1/K4os.Compression.LZ4.Streams.dll
+D:/RP/DotNet/Sample Projects/ProductPortal.Web/devopsdemo/ProductPortal.API/bin/Debug/netcoreapp3.1/K4os.Hash.xxHash.dll
+D:/RP/DotNet/Sample Projects/ProductPortal.Web/devopsdemo/ProductPortal.API/bin/Debug/netcoreapp3.1/MySql.Data.dll
+D:/RP/DotNet/Sample Projects/ProductPortal.Web/devopsdemo/ProductPortal.API/bin/Debug/netcoreapp3.1/Ubiety.Dns.Core.dll
+D:/RP/DotNet/Sample Projects/ProductPortal.Web/devopsdemo/ProductPortal.API/bin/Debug/netcoreapp3.1/Zstandard.Net.dll
+D:/RP/DotNet/Sample Projects/ProductPortal.Web/devopsdemo/ProductPortal.API/bin/Debug/netcoreapp3.1/MySql.Data.EntityFrameworkCore.dll
+D:/RP/DotNet/Sample Projects/ProductPortal.Web/devopsdemo/ProductPortal.API/bin/Debug/netcoreapp3.1/Renci.SshNet.dll
+D:/RP/DotNet/Sample Projects/ProductPortal.Web/devopsdemo/ProductPortal.API/bin/Debug/netcoreapp3.1/SshNet.Security.Cryptography.dll
+D:/RP/DotNet/Sample Projects/ProductPortal.Web/devopsdemo/ProductPortal.API/bin/Debug/netcoreapp3.1/System.Xml.XPath.XmlDocument.dll
+D:/RP/DotNet/Sample Projects/ProductPortal.Web/devopsdemo/ProductPortal.API/obj/Debug/netcoreapp3.1/ProductPortal.API.csproj.CoreCompileInputs.cache
+D:/RP/DotNet/Sample Projects/ProductPortal.Web/devopsdemo/ProductPortal.API/obj/Debug/netcoreapp3.1/ProductPortal.API.MvcApplicationPartsAssemblyInfo.cache
+/home/ezcoderz/Desktop/productPortal/devopsdemo/ProductPortal.API/bin/Debug/netcoreapp3.1/appsettings.Development.json
+/home/ezcoderz/Desktop/productPortal/devopsdemo/ProductPortal.API/bin/Debug/netcoreapp3.1/appsettings.json
+/home/ezcoderz/Desktop/productPortal/devopsdemo/ProductPortal.API/bin/Debug/netcoreapp3.1/Properties/launchSettings.json
+/home/ezcoderz/Desktop/productPortal/devopsdemo/ProductPortal.API/bin/Debug/netcoreapp3.1/ProductPortal.API
+/home/ezcoderz/Desktop/productPortal/devopsdemo/ProductPortal.API/bin/Debug/netcoreapp3.1/ProductPortal.API.deps.json
+/home/ezcoderz/Desktop/productPortal/devopsdemo/ProductPortal.API/bin/Debug/netcoreapp3.1/ProductPortal.API.runtimeconfig.json
+/home/ezcoderz/Desktop/productPortal/devopsdemo/ProductPortal.API/bin/Debug/netcoreapp3.1/ProductPortal.API.runtimeconfig.dev.json
+/home/ezcoderz/Desktop/productPortal/devopsdemo/ProductPortal.API/bin/Debug/netcoreapp3.1/ProductPortal.API.dll
+/home/ezcoderz/Desktop/productPortal/devopsdemo/ProductPortal.API/bin/Debug/netcoreapp3.1/ProductPortal.API.pdb
+/home/ezcoderz/Desktop/productPortal/devopsdemo/ProductPortal.API/bin/Debug/netcoreapp3.1/BouncyCastle.Crypto.dll
+/home/ezcoderz/Desktop/productPortal/devopsdemo/ProductPortal.API/bin/Debug/netcoreapp3.1/Google.Protobuf.dll
+/home/ezcoderz/Desktop/productPortal/devopsdemo/ProductPortal.API/bin/Debug/netcoreapp3.1/K4os.Compression.LZ4.dll
+/home/ezcoderz/Desktop/productPortal/devopsdemo/ProductPortal.API/bin/Debug/netcoreapp3.1/K4os.Compression.LZ4.Streams.dll
+/home/ezcoderz/Desktop/productPortal/devopsdemo/ProductPortal.API/bin/Debug/netcoreapp3.1/K4os.Hash.xxHash.dll
+/home/ezcoderz/Desktop/productPortal/devopsdemo/ProductPortal.API/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.Razor.Language.dll
+/home/ezcoderz/Desktop/productPortal/devopsdemo/ProductPortal.API/bin/Debug/netcoreapp3.1/Microsoft.Bcl.AsyncInterfaces.dll
+/home/ezcoderz/Desktop/productPortal/devopsdemo/ProductPortal.API/bin/Debug/netcoreapp3.1/Microsoft.Bcl.HashCode.dll
+/home/ezcoderz/Desktop/productPortal/devopsdemo/ProductPortal.API/bin/Debug/netcoreapp3.1/Microsoft.CodeAnalysis.dll
+/home/ezcoderz/Desktop/productPortal/devopsdemo/ProductPortal.API/bin/Debug/netcoreapp3.1/Microsoft.CodeAnalysis.CSharp.dll
+/home/ezcoderz/Desktop/productPortal/devopsdemo/ProductPortal.API/bin/Debug/netcoreapp3.1/Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+/home/ezcoderz/Desktop/productPortal/devopsdemo/ProductPortal.API/bin/Debug/netcoreapp3.1/Microsoft.CodeAnalysis.Razor.dll
+/home/ezcoderz/Desktop/productPortal/devopsdemo/ProductPortal.API/bin/Debug/netcoreapp3.1/Microsoft.CodeAnalysis.Workspaces.dll
+/home/ezcoderz/Desktop/productPortal/devopsdemo/ProductPortal.API/bin/Debug/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/home/ezcoderz/Desktop/productPortal/devopsdemo/ProductPortal.API/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.dll
+/home/ezcoderz/Desktop/productPortal/devopsdemo/ProductPortal.API/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Abstractions.dll
+/home/ezcoderz/Desktop/productPortal/devopsdemo/ProductPortal.API/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Design.dll
+/home/ezcoderz/Desktop/productPortal/devopsdemo/ProductPortal.API/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Relational.dll
+/home/ezcoderz/Desktop/productPortal/devopsdemo/ProductPortal.API/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.SqlServer.dll
+/home/ezcoderz/Desktop/productPortal/devopsdemo/ProductPortal.API/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Caching.Abstractions.dll
+/home/ezcoderz/Desktop/productPortal/devopsdemo/ProductPortal.API/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Caching.Memory.dll
+/home/ezcoderz/Desktop/productPortal/devopsdemo/ProductPortal.API/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.dll
+/home/ezcoderz/Desktop/productPortal/devopsdemo/ProductPortal.API/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.Abstractions.dll
+/home/ezcoderz/Desktop/productPortal/devopsdemo/ProductPortal.API/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.Binder.dll
+/home/ezcoderz/Desktop/productPortal/devopsdemo/ProductPortal.API/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyInjection.dll
+/home/ezcoderz/Desktop/productPortal/devopsdemo/ProductPortal.API/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/home/ezcoderz/Desktop/productPortal/devopsdemo/ProductPortal.API/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Logging.dll
+/home/ezcoderz/Desktop/productPortal/devopsdemo/ProductPortal.API/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Logging.Abstractions.dll
+/home/ezcoderz/Desktop/productPortal/devopsdemo/ProductPortal.API/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Options.dll
+/home/ezcoderz/Desktop/productPortal/devopsdemo/ProductPortal.API/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Primitives.dll
+/home/ezcoderz/Desktop/productPortal/devopsdemo/ProductPortal.API/bin/Debug/netcoreapp3.1/Microsoft.Identity.Client.dll
+/home/ezcoderz/Desktop/productPortal/devopsdemo/ProductPortal.API/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.dll
+/home/ezcoderz/Desktop/productPortal/devopsdemo/ProductPortal.API/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+/home/ezcoderz/Desktop/productPortal/devopsdemo/ProductPortal.API/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+/home/ezcoderz/Desktop/productPortal/devopsdemo/ProductPortal.API/bin/Debug/netcoreapp3.1/dotnet-aspnet-codegenerator-design.dll
+/home/ezcoderz/Desktop/productPortal/devopsdemo/ProductPortal.API/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+/home/ezcoderz/Desktop/productPortal/devopsdemo/ProductPortal.API/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+/home/ezcoderz/Desktop/productPortal/devopsdemo/ProductPortal.API/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+/home/ezcoderz/Desktop/productPortal/devopsdemo/ProductPortal.API/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+/home/ezcoderz/Desktop/productPortal/devopsdemo/ProductPortal.API/bin/Debug/netcoreapp3.1/MySql.Data.dll
+/home/ezcoderz/Desktop/productPortal/devopsdemo/ProductPortal.API/bin/Debug/netcoreapp3.1/Ubiety.Dns.Core.dll
+/home/ezcoderz/Desktop/productPortal/devopsdemo/ProductPortal.API/bin/Debug/netcoreapp3.1/Zstandard.Net.dll
+/home/ezcoderz/Desktop/productPortal/devopsdemo/ProductPortal.API/bin/Debug/netcoreapp3.1/MySql.Data.EntityFrameworkCore.dll
+/home/ezcoderz/Desktop/productPortal/devopsdemo/ProductPortal.API/bin/Debug/netcoreapp3.1/Newtonsoft.Json.dll
+/home/ezcoderz/Desktop/productPortal/devopsdemo/ProductPortal.API/bin/Debug/netcoreapp3.1/NuGet.Frameworks.dll
+/home/ezcoderz/Desktop/productPortal/devopsdemo/ProductPortal.API/bin/Debug/netcoreapp3.1/Renci.SshNet.dll
+/home/ezcoderz/Desktop/productPortal/devopsdemo/ProductPortal.API/bin/Debug/netcoreapp3.1/SshNet.Security.Cryptography.dll
+/home/ezcoderz/Desktop/productPortal/devopsdemo/ProductPortal.API/bin/Debug/netcoreapp3.1/System.Collections.Immutable.dll
+/home/ezcoderz/Desktop/productPortal/devopsdemo/ProductPortal.API/bin/Debug/netcoreapp3.1/System.Composition.AttributedModel.dll
+/home/ezcoderz/Desktop/productPortal/devopsdemo/ProductPortal.API/bin/Debug/netcoreapp3.1/System.Composition.Convention.dll
+/home/ezcoderz/Desktop/productPortal/devopsdemo/ProductPortal.API/bin/Debug/netcoreapp3.1/System.Composition.Hosting.dll
+/home/ezcoderz/Desktop/productPortal/devopsdemo/ProductPortal.API/bin/Debug/netcoreapp3.1/System.Composition.Runtime.dll
+/home/ezcoderz/Desktop/productPortal/devopsdemo/ProductPortal.API/bin/Debug/netcoreapp3.1/System.Composition.TypedParts.dll
+/home/ezcoderz/Desktop/productPortal/devopsdemo/ProductPortal.API/bin/Debug/netcoreapp3.1/System.Configuration.ConfigurationManager.dll
+/home/ezcoderz/Desktop/productPortal/devopsdemo/ProductPortal.API/bin/Debug/netcoreapp3.1/System.Diagnostics.DiagnosticSource.dll
+/home/ezcoderz/Desktop/productPortal/devopsdemo/ProductPortal.API/bin/Debug/netcoreapp3.1/System.Runtime.Caching.dll
+/home/ezcoderz/Desktop/productPortal/devopsdemo/ProductPortal.API/bin/Debug/netcoreapp3.1/System.Security.Cryptography.ProtectedData.dll
+/home/ezcoderz/Desktop/productPortal/devopsdemo/ProductPortal.API/bin/Debug/netcoreapp3.1/System.Xml.XPath.XmlDocument.dll
+/home/ezcoderz/Desktop/productPortal/devopsdemo/ProductPortal.API/bin/Debug/netcoreapp3.1/cs/Microsoft.CodeAnalysis.resources.dll
+/home/ezcoderz/Desktop/productPortal/devopsdemo/ProductPortal.API/bin/Debug/netcoreapp3.1/de/Microsoft.CodeAnalysis.resources.dll
+/home/ezcoderz/Desktop/productPortal/devopsdemo/ProductPortal.API/bin/Debug/netcoreapp3.1/es/Microsoft.CodeAnalysis.resources.dll
+/home/ezcoderz/Desktop/productPortal/devopsdemo/ProductPortal.API/bin/Debug/netcoreapp3.1/fr/Microsoft.CodeAnalysis.resources.dll
+/home/ezcoderz/Desktop/productPortal/devopsdemo/ProductPortal.API/bin/Debug/netcoreapp3.1/it/Microsoft.CodeAnalysis.resources.dll
+/home/ezcoderz/Desktop/productPortal/devopsdemo/ProductPortal.API/bin/Debug/netcoreapp3.1/ja/Microsoft.CodeAnalysis.resources.dll
+/home/ezcoderz/Desktop/productPortal/devopsdemo/ProductPortal.API/bin/Debug/netcoreapp3.1/ko/Microsoft.CodeAnalysis.resources.dll
+/home/ezcoderz/Desktop/productPortal/devopsdemo/ProductPortal.API/bin/Debug/netcoreapp3.1/pl/Microsoft.CodeAnalysis.resources.dll
+/home/ezcoderz/Desktop/productPortal/devopsdemo/ProductPortal.API/bin/Debug/netcoreapp3.1/pt-BR/Microsoft.CodeAnalysis.resources.dll
+/home/ezcoderz/Desktop/productPortal/devopsdemo/ProductPortal.API/bin/Debug/netcoreapp3.1/ru/Microsoft.CodeAnalysis.resources.dll
+/home/ezcoderz/Desktop/productPortal/devopsdemo/ProductPortal.API/bin/Debug/netcoreapp3.1/tr/Microsoft.CodeAnalysis.resources.dll
+/home/ezcoderz/Desktop/productPortal/devopsdemo/ProductPortal.API/bin/Debug/netcoreapp3.1/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+/home/ezcoderz/Desktop/productPortal/devopsdemo/ProductPortal.API/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+/home/ezcoderz/Desktop/productPortal/devopsdemo/ProductPortal.API/bin/Debug/netcoreapp3.1/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/ezcoderz/Desktop/productPortal/devopsdemo/ProductPortal.API/bin/Debug/netcoreapp3.1/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/ezcoderz/Desktop/productPortal/devopsdemo/ProductPortal.API/bin/Debug/netcoreapp3.1/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/ezcoderz/Desktop/productPortal/devopsdemo/ProductPortal.API/bin/Debug/netcoreapp3.1/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/ezcoderz/Desktop/productPortal/devopsdemo/ProductPortal.API/bin/Debug/netcoreapp3.1/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/ezcoderz/Desktop/productPortal/devopsdemo/ProductPortal.API/bin/Debug/netcoreapp3.1/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/ezcoderz/Desktop/productPortal/devopsdemo/ProductPortal.API/bin/Debug/netcoreapp3.1/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/ezcoderz/Desktop/productPortal/devopsdemo/ProductPortal.API/bin/Debug/netcoreapp3.1/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/ezcoderz/Desktop/productPortal/devopsdemo/ProductPortal.API/bin/Debug/netcoreapp3.1/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/ezcoderz/Desktop/productPortal/devopsdemo/ProductPortal.API/bin/Debug/netcoreapp3.1/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/ezcoderz/Desktop/productPortal/devopsdemo/ProductPortal.API/bin/Debug/netcoreapp3.1/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/ezcoderz/Desktop/productPortal/devopsdemo/ProductPortal.API/bin/Debug/netcoreapp3.1/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/ezcoderz/Desktop/productPortal/devopsdemo/ProductPortal.API/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/ezcoderz/Desktop/productPortal/devopsdemo/ProductPortal.API/bin/Debug/netcoreapp3.1/cs/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/ezcoderz/Desktop/productPortal/devopsdemo/ProductPortal.API/bin/Debug/netcoreapp3.1/de/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/ezcoderz/Desktop/productPortal/devopsdemo/ProductPortal.API/bin/Debug/netcoreapp3.1/es/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/ezcoderz/Desktop/productPortal/devopsdemo/ProductPortal.API/bin/Debug/netcoreapp3.1/fr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/ezcoderz/Desktop/productPortal/devopsdemo/ProductPortal.API/bin/Debug/netcoreapp3.1/it/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/ezcoderz/Desktop/productPortal/devopsdemo/ProductPortal.API/bin/Debug/netcoreapp3.1/ja/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/ezcoderz/Desktop/productPortal/devopsdemo/ProductPortal.API/bin/Debug/netcoreapp3.1/ko/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/ezcoderz/Desktop/productPortal/devopsdemo/ProductPortal.API/bin/Debug/netcoreapp3.1/pl/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/ezcoderz/Desktop/productPortal/devopsdemo/ProductPortal.API/bin/Debug/netcoreapp3.1/pt-BR/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/ezcoderz/Desktop/productPortal/devopsdemo/ProductPortal.API/bin/Debug/netcoreapp3.1/ru/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/ezcoderz/Desktop/productPortal/devopsdemo/ProductPortal.API/bin/Debug/netcoreapp3.1/tr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/ezcoderz/Desktop/productPortal/devopsdemo/ProductPortal.API/bin/Debug/netcoreapp3.1/zh-Hans/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/ezcoderz/Desktop/productPortal/devopsdemo/ProductPortal.API/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/ezcoderz/Desktop/productPortal/devopsdemo/ProductPortal.API/bin/Debug/netcoreapp3.1/cs/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/ezcoderz/Desktop/productPortal/devopsdemo/ProductPortal.API/bin/Debug/netcoreapp3.1/de/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/ezcoderz/Desktop/productPortal/devopsdemo/ProductPortal.API/bin/Debug/netcoreapp3.1/es/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/ezcoderz/Desktop/productPortal/devopsdemo/ProductPortal.API/bin/Debug/netcoreapp3.1/fr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/ezcoderz/Desktop/productPortal/devopsdemo/ProductPortal.API/bin/Debug/netcoreapp3.1/it/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/ezcoderz/Desktop/productPortal/devopsdemo/ProductPortal.API/bin/Debug/netcoreapp3.1/ja/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/ezcoderz/Desktop/productPortal/devopsdemo/ProductPortal.API/bin/Debug/netcoreapp3.1/ko/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/ezcoderz/Desktop/productPortal/devopsdemo/ProductPortal.API/bin/Debug/netcoreapp3.1/pl/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/ezcoderz/Desktop/productPortal/devopsdemo/ProductPortal.API/bin/Debug/netcoreapp3.1/pt-BR/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/ezcoderz/Desktop/productPortal/devopsdemo/ProductPortal.API/bin/Debug/netcoreapp3.1/ru/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/ezcoderz/Desktop/productPortal/devopsdemo/ProductPortal.API/bin/Debug/netcoreapp3.1/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/ezcoderz/Desktop/productPortal/devopsdemo/ProductPortal.API/bin/Debug/netcoreapp3.1/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/ezcoderz/Desktop/productPortal/devopsdemo/ProductPortal.API/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/ezcoderz/Desktop/productPortal/devopsdemo/ProductPortal.API/bin/Debug/netcoreapp3.1/runtimes/unix/lib/netcoreapp2.1/Microsoft.Data.SqlClient.dll
+/home/ezcoderz/Desktop/productPortal/devopsdemo/ProductPortal.API/bin/Debug/netcoreapp3.1/runtimes/win/lib/netcoreapp2.1/Microsoft.Data.SqlClient.dll
+/home/ezcoderz/Desktop/productPortal/devopsdemo/ProductPortal.API/bin/Debug/netcoreapp3.1/runtimes/win-arm64/native/sni.dll
+/home/ezcoderz/Desktop/productPortal/devopsdemo/ProductPortal.API/bin/Debug/netcoreapp3.1/runtimes/win-x64/native/sni.dll
+/home/ezcoderz/Desktop/productPortal/devopsdemo/ProductPortal.API/bin/Debug/netcoreapp3.1/runtimes/win-x86/native/sni.dll
+/home/ezcoderz/Desktop/productPortal/devopsdemo/ProductPortal.API/bin/Debug/netcoreapp3.1/runtimes/unix/lib/netcoreapp2.0/System.Runtime.Caching.dll
+/home/ezcoderz/Desktop/productPortal/devopsdemo/ProductPortal.API/bin/Debug/netcoreapp3.1/runtimes/win/lib/netcoreapp2.0/System.Runtime.Caching.dll
+/home/ezcoderz/Desktop/productPortal/devopsdemo/ProductPortal.API/bin/Debug/netcoreapp3.1/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+/home/ezcoderz/Desktop/productPortal/devopsdemo/ProductPortal.API/bin/Debug/netcoreapp3.1/ProductPortal.Common.dll
+/home/ezcoderz/Desktop/productPortal/devopsdemo/ProductPortal.API/bin/Debug/netcoreapp3.1/ProductPortal.Model.dll
+/home/ezcoderz/Desktop/productPortal/devopsdemo/ProductPortal.API/bin/Debug/netcoreapp3.1/ProductPortal.Repository.dll
+/home/ezcoderz/Desktop/productPortal/devopsdemo/ProductPortal.API/bin/Debug/netcoreapp3.1/ProductPortal.Model.pdb
+/home/ezcoderz/Desktop/productPortal/devopsdemo/ProductPortal.API/bin/Debug/netcoreapp3.1/ProductPortal.Repository.pdb
+/home/ezcoderz/Desktop/productPortal/devopsdemo/ProductPortal.API/bin/Debug/netcoreapp3.1/ProductPortal.Common.pdb
+/home/ezcoderz/Desktop/productPortal/devopsdemo/ProductPortal.API/obj/Debug/netcoreapp3.1/ProductPortal.API.csprojAssemblyReference.cache
+/home/ezcoderz/Desktop/productPortal/devopsdemo/ProductPortal.API/obj/Debug/netcoreapp3.1/ProductPortal.API.AssemblyInfoInputs.cache
+/home/ezcoderz/Desktop/productPortal/devopsdemo/ProductPortal.API/obj/Debug/netcoreapp3.1/ProductPortal.API.AssemblyInfo.cs
+/home/ezcoderz/Desktop/productPortal/devopsdemo/ProductPortal.API/obj/Debug/netcoreapp3.1/ProductPortal.API.csproj.CoreCompileInputs.cache
+/home/ezcoderz/Desktop/productPortal/devopsdemo/ProductPortal.API/obj/Debug/netcoreapp3.1/ProductPortal.API.MvcApplicationPartsAssemblyInfo.cache
+/home/ezcoderz/Desktop/productPortal/devopsdemo/ProductPortal.API/obj/Debug/netcoreapp3.1/ProductPortal.API.RazorTargetAssemblyInfo.cache
+/home/ezcoderz/Desktop/productPortal/devopsdemo/ProductPortal.API/obj/Debug/netcoreapp3.1/ProductPortal.API.csproj.CopyComplete
+/home/ezcoderz/Desktop/productPortal/devopsdemo/ProductPortal.API/obj/Debug/netcoreapp3.1/staticwebassets/ProductPortal.API.StaticWebAssets.Manifest.cache
+/home/ezcoderz/Desktop/productPortal/devopsdemo/ProductPortal.API/obj/Debug/netcoreapp3.1/staticwebassets/ProductPortal.API.StaticWebAssets.xml
+/home/ezcoderz/Desktop/productPortal/devopsdemo/ProductPortal.API/obj/Debug/netcoreapp3.1/ProductPortal.API.dll
+/home/ezcoderz/Desktop/productPortal/devopsdemo/ProductPortal.API/obj/Debug/netcoreapp3.1/ProductPortal.API.pdb
+/home/ezcoderz/Desktop/productPortal/devopsdemo/ProductPortal.API/obj/Debug/netcoreapp3.1/ProductPortal.API.genruntimeconfig.cache
+/home/ezcoderz/Desktop/productPortal/devopsdemo/ProductPortal.API/bin/Debug/netcoreapp3.1/MySqlConnector.dll
+/home/ezcoderz/Desktop/productPortal/devopsdemo/ProductPortal.API/bin/Debug/netcoreapp3.1/Pomelo.EntityFrameworkCore.MySql.dll
+/home/ezcoderz/Desktop/productPortal/devopsdemo/ProductPortal.API/bin/Debug/netcoreapp3.1/Pomelo.JsonObject.dll
+/home/ezcoderz/Desktop/productPortal/devopsdemo/ProductPortal.API/bin/Debug/netcoreapp3.1/runtimeconfig.template.json
+>>>>>>> 3079e338fdd6ba797620318b962cd2ecdede03be

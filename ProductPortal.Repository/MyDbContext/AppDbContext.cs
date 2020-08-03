@@ -21,6 +21,7 @@ namespace ProductPortal.Repository.MyDbContext
 
             base.OnConfiguring(optionsBuilder);
         }
+
         public DbSet<Product> products { get; set; }
         public DbSet<Category> categories { get; set; }
     }

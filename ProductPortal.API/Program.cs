@@ -15,13 +15,16 @@ namespace ProductPortal.API
     {
         public static void Main(string[] args)
         {
-            var host =  CreateHostBuilder(args).Build();
-            using (var serviceScope = host.Services.CreateScope())
-            {
-                var context = serviceScope.ServiceProvider.GetRequiredService<AppDbContext>();
-                context.Database.EnsureCreated();
-            }
-            host.Run();
+
+
+
+                 CreateHostBuilder(args).Build().Run();
+            //using (var serviceScope = host.Services.CreateScope())
+            //{
+            //    var context = serviceScope.ServiceProvider.GetRequiredService<AppDbContext>();
+            //    context.Database.EnsureCreated();
+            //}
+            //host.Run();
 
         }
 

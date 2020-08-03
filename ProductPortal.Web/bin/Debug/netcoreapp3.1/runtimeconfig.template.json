@@ -1,7 +1,11 @@
 {
 
+
     "configProperties": {
         "System.Globalization.Invariant": true
     }
+
+
+    
 
 }

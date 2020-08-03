@@ -1,0 +1,6 @@
+FROM mcr.microsoft.com/dotnet/core/sdk:3.1
+COPY ProductPortal.Web/dist /app
+WORKDIR /app
+ENV ASPNETCORE_URLS=http://+:56551 
+EXPOSE 56551
+ENTRYPOINT ["dotnet", "ProductPortal.Web.dll"]

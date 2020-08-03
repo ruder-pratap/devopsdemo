@@ -15,6 +15,7 @@ namespace ProductPortal.Services.CategoryServices
     public class CategoryServices : ICategoryServices
     {
         private readonly IMapper _mapper;
+
         public IConfiguration Configuration { get; }
         public CategoryServices(IMapper mapper, IConfiguration configuration)
         {
@@ -35,7 +36,7 @@ namespace ProductPortal.Services.CategoryServices
             _mapper.Map(model, data);
             using (var client = new HttpClient())
             {
-                client.BaseAddress = new Uri("http://localhost:56562/api/");
+                client.BaseAddress = new Uri(Configuration["core"]);
                 var responseMessage = await client.PostAsJsonAsync<Category>("Category/createcategory", data);
 
                 string result = responseMessage.Content.ReadAsStringAsync().Result;
@@ -63,7 +64,7 @@ namespace ProductPortal.Services.CategoryServices
             var response = new UserManagerResponse();
             using (var client = new HttpClient())
             {
-                client.BaseAddress = new Uri("http://localhost:56562/api/");
+                client.BaseAddress = new Uri(Configuration["core"]);
                 var responseMessage = await client.DeleteAsync($"Category/categorydelete/{id.ToString()}");
 
                 string result = responseMessage.Content.ReadAsStringAsync().Result;
@@ -93,7 +94,7 @@ namespace ProductPortal.Services.CategoryServices
             _mapper.Map(model, data);
             using (var client = new HttpClient())
             {
-                client.BaseAddress = new Uri("http://localhost:56562/api/");
+                client.BaseAddress = new Uri(Configuration["core"]);
 
                 var responseMessage = await client.PutAsJsonAsync<Category>("category/updatecategory", data);
 
@@ -117,7 +118,7 @@ namespace ProductPortal.Services.CategoryServices
             var url = Configuration["core"];
             using (var client = new HttpClient())
             {
-                client.BaseAddress = new Uri("http://localhost:56562/api/");
+                client.BaseAddress = new Uri(Configuration["core"]);
                 var httpContent = await client.GetAsync("Category/getallcategory");
 
                 string result = httpContent.Content.ReadAsStringAsync().Result;
@@ -142,7 +143,7 @@ namespace ProductPortal.Services.CategoryServices
 
             using (var client = new HttpClient())
             {
-                client.BaseAddress = new Uri("http://localhost:56562/api/");
+                client.BaseAddress = new Uri(Configuration["core"]);
                 var httpContent = await client.GetAsync($"Category/getcategory/{id}");
 
                 string result = httpContent.Content.ReadAsStringAsync().Result;
