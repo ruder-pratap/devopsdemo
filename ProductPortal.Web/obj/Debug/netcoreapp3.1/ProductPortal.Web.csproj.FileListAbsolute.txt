@@ -286,3 +286,4 @@ D:\RP\DotNet\Sample Projects\ProductPortal.Web\devopsdemo\ProductPortal.Web\obj\
 D:\RP\DotNet\Sample Projects\ProductPortal.Web\devopsdemo\ProductPortal.Web\obj\Debug\netcoreapp3.1\ProductPortal.Web.dll
 D:\RP\DotNet\Sample Projects\ProductPortal.Web\devopsdemo\ProductPortal.Web\obj\Debug\netcoreapp3.1\ProductPortal.Web.pdb
 D:\RP\DotNet\Sample Projects\ProductPortal.Web\devopsdemo\ProductPortal.Web\obj\Debug\netcoreapp3.1\ProductPortal.Web.genruntimeconfig.cache
+D:\RP\DotNet\Sample Projects\ProductPortal.Web\devopsdemo\ProductPortal.Web\bin\Debug\netcoreapp3.1\runtimeconfig.template.json

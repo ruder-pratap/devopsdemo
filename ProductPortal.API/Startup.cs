@@ -13,6 +13,9 @@ using ProductPortal.Repository.MyDbContext;
 using Microsoft.EntityFrameworkCore;
 using ProductPortal.Repository;
 using ProductPortal.Repository.CategoryRepository;
+using Pomelo.EntityFrameworkCore.MySql.Infrastructure;
+using Microsoft.EntityFrameworkCore.Infrastructure;
+using Pomelo.EntityFrameworkCore;
 
 namespace ProductPortal.API
 {
@@ -28,7 +31,7 @@ namespace ProductPortal.API
         // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services)
         {
-            services.AddDbContextPool<AppDbContext>(options => options.UseMySQL(Configuration.GetConnectionString("DBConnection")));
+            services.AddDbContext<AppDbContext>(options => options.UseMySql(Configuration.GetConnectionString("DBConnection")));
 
             services.AddScoped<IProductRepository, ProductRepository>();
             services.AddScoped<ICategoryRepository, CategoryRepository>();

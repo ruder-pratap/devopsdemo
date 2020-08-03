@@ -1,4 +1,5 @@
 ﻿using AutoMapper;
+using Microsoft.Extensions.Configuration;
 using Newtonsoft.Json;
 using ProductPortal.Common;
 using ProductPortal.Model;
@@ -14,10 +15,11 @@ namespace ProductPortal.Services.CategoryServices
     public class CategoryServices : ICategoryServices
     {
         private readonly IMapper _mapper;
-
-        public CategoryServices(IMapper mapper)
+        public IConfiguration Configuration { get; }
+        public CategoryServices(IMapper mapper, IConfiguration configuration)
         {
             this._mapper = mapper;
+            Configuration = configuration;
         }
         public async Task<UserManagerResponse> CreateCategoryAsync(CategoryViewModel model)
         {
@@ -112,7 +114,7 @@ namespace ProductPortal.Services.CategoryServices
         {
             IEnumerable<Category> response = null;
             IEnumerable<CategoryViewModel> categoryViewModel = new List<CategoryViewModel>();
-
+            var url = Configuration["core"];
             using (var client = new HttpClient())
             {
                 client.BaseAddress = new Uri("http://localhost:56562/api/");

@@ -21,7 +21,7 @@ D:\RP\DotNet\Sample Projects\ProductPortal.Web\devopsdemo\ProductPortal.Reposito
 D:\RP\DotNet\Sample Projects\ProductPortal.Web\devopsdemo\ProductPortal.Repository\obj\Debug\netstandard2.0\ProductPortal.Repository.csprojAssemblyReference.cache
 D:\RP\DotNet\Sample Projects\ProductPortal.Web\devopsdemo\ProductPortal.Repository\obj\Debug\netstandard2.0\ProductPortal.Repository.AssemblyInfoInputs.cache
 D:\RP\DotNet\Sample Projects\ProductPortal.Web\devopsdemo\ProductPortal.Repository\obj\Debug\netstandard2.0\ProductPortal.Repository.AssemblyInfo.cs
-D:\RP\DotNet\Sample Projects\ProductPortal.Web\devopsdemo\ProductPortal.Repository\obj\Debug\netstandard2.0\ProductPortal.Repository.csproj.CoreCompileInputs.cache
 D:\RP\DotNet\Sample Projects\ProductPortal.Web\devopsdemo\ProductPortal.Repository\obj\Debug\netstandard2.0\ProductPortal.Repository.csproj.CopyComplete
 D:\RP\DotNet\Sample Projects\ProductPortal.Web\devopsdemo\ProductPortal.Repository\obj\Debug\netstandard2.0\ProductPortal.Repository.dll
 D:\RP\DotNet\Sample Projects\ProductPortal.Web\devopsdemo\ProductPortal.Repository\obj\Debug\netstandard2.0\ProductPortal.Repository.pdb
+D:\RP\DotNet\Sample Projects\ProductPortal.Web\devopsdemo\ProductPortal.Repository\obj\Debug\netstandard2.0\ProductPortal.Repository.csproj.CoreCompileInputs.cache
