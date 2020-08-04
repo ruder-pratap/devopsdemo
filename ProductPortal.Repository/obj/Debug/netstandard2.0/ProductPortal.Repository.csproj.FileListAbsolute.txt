@@ -1,32 +1,4 @@
 <<<<<<< HEAD
-C:\Users\Ruder\source\repos\ProductPortal.Web\ProductPortal.Repository\bin\Debug\netstandard2.0\ProductPortal.Model.dll
-C:\Users\Ruder\source\repos\ProductPortal.Web\ProductPortal.Repository\obj\Debug\netstandard2.0\ProductPortal.Repository.csprojAssemblyReference.cache
-C:\Users\Ruder\source\repos\ProductPortal.Web\ProductPortal.Repository\obj\Debug\netstandard2.0\ProductPortal.Repository.AssemblyInfoInputs.cache
-C:\Users\Ruder\source\repos\ProductPortal.Web\ProductPortal.Repository\obj\Debug\netstandard2.0\ProductPortal.Repository.AssemblyInfo.cs
-C:\Users\Ruder\source\repos\ProductPortal.Web\ProductPortal.Repository\bin\Debug\netstandard2.0\ProductPortal.Repository.deps.json
-C:\Users\Ruder\source\repos\ProductPortal.Web\ProductPortal.Repository\bin\Debug\netstandard2.0\ProductPortal.Repository.dll
-C:\Users\Ruder\source\repos\ProductPortal.Web\ProductPortal.Repository\bin\Debug\netstandard2.0\ProductPortal.Repository.pdb
-C:\Users\Ruder\source\repos\ProductPortal.Web\ProductPortal.Repository\bin\Debug\netstandard2.0\ProductPortal.Model.pdb
-C:\Users\Ruder\source\repos\ProductPortal.Web\ProductPortal.Repository\obj\Debug\netstandard2.0\ProductPortal.Repository.csproj.CopyComplete
-C:\Users\Ruder\source\repos\ProductPortal.Web\ProductPortal.Repository\obj\Debug\netstandard2.0\ProductPortal.Repository.dll
-C:\Users\Ruder\source\repos\ProductPortal.Web\ProductPortal.Repository\obj\Debug\netstandard2.0\ProductPortal.Repository.pdb
-C:\Users\Ruder\source\repos\ProductPortal.Web\ProductPortal.Repository\bin\Debug\netstandard2.0\ProductPortal.Common.dll
-C:\Users\Ruder\source\repos\ProductPortal.Web\ProductPortal.Repository\bin\Debug\netstandard2.0\ProductPortal.Common.pdb
-D:\RP\DotNet\Sample Projects\ProductPortal.Web\devopsdemo\ProductPortal.Repository\bin\Debug\netstandard2.0\ProductPortal.Repository.deps.json
-D:\RP\DotNet\Sample Projects\ProductPortal.Web\devopsdemo\ProductPortal.Repository\bin\Debug\netstandard2.0\ProductPortal.Repository.dll
-D:\RP\DotNet\Sample Projects\ProductPortal.Web\devopsdemo\ProductPortal.Repository\bin\Debug\netstandard2.0\ProductPortal.Repository.pdb
-D:\RP\DotNet\Sample Projects\ProductPortal.Web\devopsdemo\ProductPortal.Repository\bin\Debug\netstandard2.0\ProductPortal.Common.dll
-D:\RP\DotNet\Sample Projects\ProductPortal.Web\devopsdemo\ProductPortal.Repository\bin\Debug\netstandard2.0\ProductPortal.Model.dll
-D:\RP\DotNet\Sample Projects\ProductPortal.Web\devopsdemo\ProductPortal.Repository\bin\Debug\netstandard2.0\ProductPortal.Common.pdb
-D:\RP\DotNet\Sample Projects\ProductPortal.Web\devopsdemo\ProductPortal.Repository\bin\Debug\netstandard2.0\ProductPortal.Model.pdb
-D:\RP\DotNet\Sample Projects\ProductPortal.Web\devopsdemo\ProductPortal.Repository\obj\Debug\netstandard2.0\ProductPortal.Repository.csprojAssemblyReference.cache
-D:\RP\DotNet\Sample Projects\ProductPortal.Web\devopsdemo\ProductPortal.Repository\obj\Debug\netstandard2.0\ProductPortal.Repository.AssemblyInfoInputs.cache
-D:\RP\DotNet\Sample Projects\ProductPortal.Web\devopsdemo\ProductPortal.Repository\obj\Debug\netstandard2.0\ProductPortal.Repository.AssemblyInfo.cs
-D:\RP\DotNet\Sample Projects\ProductPortal.Web\devopsdemo\ProductPortal.Repository\obj\Debug\netstandard2.0\ProductPortal.Repository.csproj.CopyComplete
-D:\RP\DotNet\Sample Projects\ProductPortal.Web\devopsdemo\ProductPortal.Repository\obj\Debug\netstandard2.0\ProductPortal.Repository.dll
-D:\RP\DotNet\Sample Projects\ProductPortal.Web\devopsdemo\ProductPortal.Repository\obj\Debug\netstandard2.0\ProductPortal.Repository.pdb
-D:\RP\DotNet\Sample Projects\ProductPortal.Web\devopsdemo\ProductPortal.Repository\obj\Debug\netstandard2.0\ProductPortal.Repository.csproj.CoreCompileInputs.cache
-=======
 C:/Users/Ruder/source/repos/ProductPortal.Web/ProductPortal.Repository/bin/Debug/netstandard2.0/ProductPortal.Model.dll
 C:/Users/Ruder/source/repos/ProductPortal.Web/ProductPortal.Repository/obj/Debug/netstandard2.0/ProductPortal.Repository.csprojAssemblyReference.cache
 C:/Users/Ruder/source/repos/ProductPortal.Web/ProductPortal.Repository/obj/Debug/netstandard2.0/ProductPortal.Repository.AssemblyInfoInputs.cache
@@ -50,10 +22,11 @@ D:/RP/DotNet/Sample Projects/ProductPortal.Web/devopsdemo/ProductPortal.Reposito
 D:/RP/DotNet/Sample Projects/ProductPortal.Web/devopsdemo/ProductPortal.Repository/obj/Debug/netstandard2.0/ProductPortal.Repository.csprojAssemblyReference.cache
 D:/RP/DotNet/Sample Projects/ProductPortal.Web/devopsdemo/ProductPortal.Repository/obj/Debug/netstandard2.0/ProductPortal.Repository.AssemblyInfoInputs.cache
 D:/RP/DotNet/Sample Projects/ProductPortal.Web/devopsdemo/ProductPortal.Repository/obj/Debug/netstandard2.0/ProductPortal.Repository.AssemblyInfo.cs
-D:/RP/DotNet/Sample Projects/ProductPortal.Web/devopsdemo/ProductPortal.Repository/obj/Debug/netstandard2.0/ProductPortal.Repository.csproj.CoreCompileInputs.cache
 D:/RP/DotNet/Sample Projects/ProductPortal.Web/devopsdemo/ProductPortal.Repository/obj/Debug/netstandard2.0/ProductPortal.Repository.csproj.CopyComplete
 D:/RP/DotNet/Sample Projects/ProductPortal.Web/devopsdemo/ProductPortal.Repository/obj/Debug/netstandard2.0/ProductPortal.Repository.dll
 D:/RP/DotNet/Sample Projects/ProductPortal.Web/devopsdemo/ProductPortal.Repository/obj/Debug/netstandard2.0/ProductPortal.Repository.pdb
+D:/RP/DotNet/Sample Projects/ProductPortal.Web/devopsdemo/ProductPortal.Repository/obj/Debug/netstandard2.0/ProductPortal.Repository.csproj.CoreCompileInputs.cache
+=======
 /home/ezcoderz/Desktop/productPortal/devopsdemo/ProductPortal.Repository/bin/Debug/netstandard2.0/ProductPortal.Repository.deps.json
 /home/ezcoderz/Desktop/productPortal/devopsdemo/ProductPortal.Repository/bin/Debug/netstandard2.0/ProductPortal.Repository.dll
 /home/ezcoderz/Desktop/productPortal/devopsdemo/ProductPortal.Repository/bin/Debug/netstandard2.0/ProductPortal.Repository.pdb
@@ -69,3 +42,17 @@ D:/RP/DotNet/Sample Projects/ProductPortal.Web/devopsdemo/ProductPortal.Reposito
 /home/ezcoderz/Desktop/productPortal/devopsdemo/ProductPortal.Repository/obj/Debug/netstandard2.0/ProductPortal.Repository.dll
 /home/ezcoderz/Desktop/productPortal/devopsdemo/ProductPortal.Repository/obj/Debug/netstandard2.0/ProductPortal.Repository.pdb
 >>>>>>> 3079e338fdd6ba797620318b962cd2ecdede03be
+/home/ezcoderz/Desktop/Portal/devopsdemo/ProductPortal.Repository/bin/Debug/netstandard2.0/ProductPortal.Repository.deps.json
+/home/ezcoderz/Desktop/Portal/devopsdemo/ProductPortal.Repository/bin/Debug/netstandard2.0/ProductPortal.Repository.dll
+/home/ezcoderz/Desktop/Portal/devopsdemo/ProductPortal.Repository/bin/Debug/netstandard2.0/ProductPortal.Repository.pdb
+/home/ezcoderz/Desktop/Portal/devopsdemo/ProductPortal.Repository/bin/Debug/netstandard2.0/ProductPortal.Common.dll
+/home/ezcoderz/Desktop/Portal/devopsdemo/ProductPortal.Repository/bin/Debug/netstandard2.0/ProductPortal.Model.dll
+/home/ezcoderz/Desktop/Portal/devopsdemo/ProductPortal.Repository/bin/Debug/netstandard2.0/ProductPortal.Common.pdb
+/home/ezcoderz/Desktop/Portal/devopsdemo/ProductPortal.Repository/bin/Debug/netstandard2.0/ProductPortal.Model.pdb
+/home/ezcoderz/Desktop/Portal/devopsdemo/ProductPortal.Repository/obj/Debug/netstandard2.0/ProductPortal.Repository.csprojAssemblyReference.cache
+/home/ezcoderz/Desktop/Portal/devopsdemo/ProductPortal.Repository/obj/Debug/netstandard2.0/ProductPortal.Repository.AssemblyInfoInputs.cache
+/home/ezcoderz/Desktop/Portal/devopsdemo/ProductPortal.Repository/obj/Debug/netstandard2.0/ProductPortal.Repository.AssemblyInfo.cs
+/home/ezcoderz/Desktop/Portal/devopsdemo/ProductPortal.Repository/obj/Debug/netstandard2.0/ProductPortal.Repository.csproj.CoreCompileInputs.cache
+/home/ezcoderz/Desktop/Portal/devopsdemo/ProductPortal.Repository/obj/Debug/netstandard2.0/ProductPortal.Repository.csproj.CopyComplete
+/home/ezcoderz/Desktop/Portal/devopsdemo/ProductPortal.Repository/obj/Debug/netstandard2.0/ProductPortal.Repository.dll
+/home/ezcoderz/Desktop/Portal/devopsdemo/ProductPortal.Repository/obj/Debug/netstandard2.0/ProductPortal.Repository.pdb

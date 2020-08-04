@@ -1,12 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "pOh9lGBbZpNy1n37t6DAjaIeM9JXIfFM3RthuLPvWZ7mEE5ZpcGiXq7HV2CfnJI7maxJposDZv8x15cYJNrdRQ==",
+  "dgSpecHash": "53caCvxjwyiL3ocFm9UeEBkM7IlQHhwGVUTALaMK91RTgkXE52Et8nPn2oopjv/kfDGwZdDg0MhZGhhgW0BqOw==",
   "success": true,
-  "projectFilePath": "D:\\RP\\DotNet\\Sample Projects\\ProductPortal.Web\\devopsdemo\\ProductPortal.ViewModel\\ProductPortal.ViewModel.csproj",
+  "projectFilePath": "/home/ezcoderz/Desktop/Portal/devopsdemo/ProductPortal.ViewModel/ProductPortal.ViewModel.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\Ruder\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
-    "C:\\Users\\Ruder\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
-    "C:\\Users\\Ruder\\.nuget\\packages\\system.componentmodel.annotations\\4.7.0\\system.componentmodel.annotations.4.7.0.nupkg.sha512"
+    "/home/ezcoderz/.nuget/packages/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "/home/ezcoderz/.nuget/packages/netstandard.library/2.0.3/netstandard.library.2.0.3.nupkg.sha512",
+    "/home/ezcoderz/.nuget/packages/system.componentmodel.annotations/4.7.0/system.componentmodel.annotations.4.7.0.nupkg.sha512"
   ],
   "logs": []
 }

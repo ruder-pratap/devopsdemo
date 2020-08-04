@@ -1,11 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "UpRY0bqstypwH2CugieywVuGd7oG6LD6+kruW1fMUsrFBO9fyuRjVhNgAINGmo29lPVJZ9jObMB4kCon5m8Ayg==",
+  "dgSpecHash": "nHI5Z4Cf8ayxd/mX101UCFcva5a0TGxlFh+JcYNmp6RpMgdb0/QUUwpABaDGWopkwWiMt03d6pgMvi0fhMpCbg==",
   "success": true,
-  "projectFilePath": "D:\\RP\\DotNet\\Sample Projects\\ProductPortal.Web\\devopsdemo\\ProductPortal.Model\\ProductPortal.Model.csproj",
+  "projectFilePath": "/home/ezcoderz/Desktop/Portal/devopsdemo/ProductPortal.Model/ProductPortal.Model.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\Ruder\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
-    "C:\\Users\\Ruder\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+    "/home/ezcoderz/.nuget/packages/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "/home/ezcoderz/.nuget/packages/netstandard.library/2.0.3/netstandard.library.2.0.3.nupkg.sha512"
   ],
   "logs": []
 }

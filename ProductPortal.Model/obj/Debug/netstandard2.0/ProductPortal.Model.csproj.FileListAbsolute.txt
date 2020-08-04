@@ -15,11 +15,20 @@ C:/Users/Ruder/source/repos/ProductPortal.Web/ProductPortal.Model/obj/Debug/nets
 /home/ezcoderz/Desktop/productPortal/devopsdemo/ProductPortal.Model/obj/Debug/netstandard2.0/ProductPortal.Model.csproj.CoreCompileInputs.cache
 /home/ezcoderz/Desktop/productPortal/devopsdemo/ProductPortal.Model/obj/Debug/netstandard2.0/ProductPortal.Model.dll
 /home/ezcoderz/Desktop/productPortal/devopsdemo/ProductPortal.Model/obj/Debug/netstandard2.0/ProductPortal.Model.pdb
-D:\RP\DotNet\Sample Projects\ProductPortal.Web\devopsdemo\ProductPortal.Model\bin\Debug\netstandard2.0\ProductPortal.Model.deps.json
-D:\RP\DotNet\Sample Projects\ProductPortal.Web\devopsdemo\ProductPortal.Model\bin\Debug\netstandard2.0\ProductPortal.Model.dll
-D:\RP\DotNet\Sample Projects\ProductPortal.Web\devopsdemo\ProductPortal.Model\bin\Debug\netstandard2.0\ProductPortal.Model.pdb
-D:\RP\DotNet\Sample Projects\ProductPortal.Web\devopsdemo\ProductPortal.Model\obj\Debug\netstandard2.0\ProductPortal.Model.AssemblyInfoInputs.cache
-D:\RP\DotNet\Sample Projects\ProductPortal.Web\devopsdemo\ProductPortal.Model\obj\Debug\netstandard2.0\ProductPortal.Model.AssemblyInfo.cs
-D:\RP\DotNet\Sample Projects\ProductPortal.Web\devopsdemo\ProductPortal.Model\obj\Debug\netstandard2.0\ProductPortal.Model.csproj.CoreCompileInputs.cache
-D:\RP\DotNet\Sample Projects\ProductPortal.Web\devopsdemo\ProductPortal.Model\obj\Debug\netstandard2.0\ProductPortal.Model.dll
-D:\RP\DotNet\Sample Projects\ProductPortal.Web\devopsdemo\ProductPortal.Model\obj\Debug\netstandard2.0\ProductPortal.Model.pdb
+D:/RP/DotNet/Sample Projects/ProductPortal.Web/devopsdemo/ProductPortal.Model/bin/Debug/netstandard2.0/ProductPortal.Model.deps.json
+D:/RP/DotNet/Sample Projects/ProductPortal.Web/devopsdemo/ProductPortal.Model/bin/Debug/netstandard2.0/ProductPortal.Model.dll
+D:/RP/DotNet/Sample Projects/ProductPortal.Web/devopsdemo/ProductPortal.Model/bin/Debug/netstandard2.0/ProductPortal.Model.pdb
+D:/RP/DotNet/Sample Projects/ProductPortal.Web/devopsdemo/ProductPortal.Model/obj/Debug/netstandard2.0/ProductPortal.Model.AssemblyInfoInputs.cache
+D:/RP/DotNet/Sample Projects/ProductPortal.Web/devopsdemo/ProductPortal.Model/obj/Debug/netstandard2.0/ProductPortal.Model.AssemblyInfo.cs
+D:/RP/DotNet/Sample Projects/ProductPortal.Web/devopsdemo/ProductPortal.Model/obj/Debug/netstandard2.0/ProductPortal.Model.csproj.CoreCompileInputs.cache
+D:/RP/DotNet/Sample Projects/ProductPortal.Web/devopsdemo/ProductPortal.Model/obj/Debug/netstandard2.0/ProductPortal.Model.dll
+D:/RP/DotNet/Sample Projects/ProductPortal.Web/devopsdemo/ProductPortal.Model/obj/Debug/netstandard2.0/ProductPortal.Model.pdb
+/home/ezcoderz/Desktop/Portal/devopsdemo/ProductPortal.Model/bin/Debug/netstandard2.0/ProductPortal.Model.deps.json
+/home/ezcoderz/Desktop/Portal/devopsdemo/ProductPortal.Model/bin/Debug/netstandard2.0/ProductPortal.Model.dll
+/home/ezcoderz/Desktop/Portal/devopsdemo/ProductPortal.Model/bin/Debug/netstandard2.0/ProductPortal.Model.pdb
+/home/ezcoderz/Desktop/Portal/devopsdemo/ProductPortal.Model/obj/Debug/netstandard2.0/ProductPortal.Model.csprojAssemblyReference.cache
+/home/ezcoderz/Desktop/Portal/devopsdemo/ProductPortal.Model/obj/Debug/netstandard2.0/ProductPortal.Model.AssemblyInfoInputs.cache
+/home/ezcoderz/Desktop/Portal/devopsdemo/ProductPortal.Model/obj/Debug/netstandard2.0/ProductPortal.Model.AssemblyInfo.cs
+/home/ezcoderz/Desktop/Portal/devopsdemo/ProductPortal.Model/obj/Debug/netstandard2.0/ProductPortal.Model.csproj.CoreCompileInputs.cache
+/home/ezcoderz/Desktop/Portal/devopsdemo/ProductPortal.Model/obj/Debug/netstandard2.0/ProductPortal.Model.dll
+/home/ezcoderz/Desktop/Portal/devopsdemo/ProductPortal.Model/obj/Debug/netstandard2.0/ProductPortal.Model.pdb

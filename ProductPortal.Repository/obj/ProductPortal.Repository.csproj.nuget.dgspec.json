@@ -1,27 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "D:\\RP\\DotNet\\Sample Projects\\ProductPortal.Web\\devopsdemo\\ProductPortal.Repository\\ProductPortal.Repository.csproj": {}
+    "/home/ezcoderz/Desktop/Portal/devopsdemo/ProductPortal.Repository/ProductPortal.Repository.csproj": {}
   },
   "projects": {
-    "D:\\RP\\DotNet\\Sample Projects\\ProductPortal.Web\\devopsdemo\\ProductPortal.Common\\ProductPortal.Common.csproj": {
+    "/home/ezcoderz/Desktop/Portal/devopsdemo/ProductPortal.Common/ProductPortal.Common.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\RP\\DotNet\\Sample Projects\\ProductPortal.Web\\devopsdemo\\ProductPortal.Common\\ProductPortal.Common.csproj",
+        "projectUniqueName": "/home/ezcoderz/Desktop/Portal/devopsdemo/ProductPortal.Common/ProductPortal.Common.csproj",
         "projectName": "ProductPortal.Common",
-        "projectPath": "D:\\RP\\DotNet\\Sample Projects\\ProductPortal.Web\\devopsdemo\\ProductPortal.Common\\ProductPortal.Common.csproj",
-        "packagesPath": "C:\\Users\\Ruder\\.nuget\\packages\\",
-        "outputPath": "D:\\RP\\DotNet\\Sample Projects\\ProductPortal.Web\\devopsdemo\\ProductPortal.Common\\obj\\",
+        "projectPath": "/home/ezcoderz/Desktop/Portal/devopsdemo/ProductPortal.Common/ProductPortal.Common.csproj",
+        "packagesPath": "/home/ezcoderz/.nuget/packages/",
+        "outputPath": "/home/ezcoderz/Desktop/Portal/devopsdemo/ProductPortal.Common/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Ruder\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/home/ezcoderz/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netstandard2.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -55,28 +53,26 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/3.1.302/RuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\RP\\DotNet\\Sample Projects\\ProductPortal.Web\\devopsdemo\\ProductPortal.Model\\ProductPortal.Model.csproj": {
+    "/home/ezcoderz/Desktop/Portal/devopsdemo/ProductPortal.Model/ProductPortal.Model.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\RP\\DotNet\\Sample Projects\\ProductPortal.Web\\devopsdemo\\ProductPortal.Model\\ProductPortal.Model.csproj",
+        "projectUniqueName": "/home/ezcoderz/Desktop/Portal/devopsdemo/ProductPortal.Model/ProductPortal.Model.csproj",
         "projectName": "ProductPortal.Model",
-        "projectPath": "D:\\RP\\DotNet\\Sample Projects\\ProductPortal.Web\\devopsdemo\\ProductPortal.Model\\ProductPortal.Model.csproj",
-        "packagesPath": "C:\\Users\\Ruder\\.nuget\\packages\\",
-        "outputPath": "D:\\RP\\DotNet\\Sample Projects\\ProductPortal.Web\\devopsdemo\\ProductPortal.Model\\obj\\",
+        "projectPath": "/home/ezcoderz/Desktop/Portal/devopsdemo/ProductPortal.Model/ProductPortal.Model.csproj",
+        "packagesPath": "/home/ezcoderz/.nuget/packages/",
+        "outputPath": "/home/ezcoderz/Desktop/Portal/devopsdemo/ProductPortal.Model/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Ruder\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/home/ezcoderz/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netstandard2.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -110,38 +106,36 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/3.1.302/RuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\RP\\DotNet\\Sample Projects\\ProductPortal.Web\\devopsdemo\\ProductPortal.Repository\\ProductPortal.Repository.csproj": {
+    "/home/ezcoderz/Desktop/Portal/devopsdemo/ProductPortal.Repository/ProductPortal.Repository.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\RP\\DotNet\\Sample Projects\\ProductPortal.Web\\devopsdemo\\ProductPortal.Repository\\ProductPortal.Repository.csproj",
+        "projectUniqueName": "/home/ezcoderz/Desktop/Portal/devopsdemo/ProductPortal.Repository/ProductPortal.Repository.csproj",
         "projectName": "ProductPortal.Repository",
-        "projectPath": "D:\\RP\\DotNet\\Sample Projects\\ProductPortal.Web\\devopsdemo\\ProductPortal.Repository\\ProductPortal.Repository.csproj",
-        "packagesPath": "C:\\Users\\Ruder\\.nuget\\packages\\",
-        "outputPath": "D:\\RP\\DotNet\\Sample Projects\\ProductPortal.Web\\devopsdemo\\ProductPortal.Repository\\obj\\",
+        "projectPath": "/home/ezcoderz/Desktop/Portal/devopsdemo/ProductPortal.Repository/ProductPortal.Repository.csproj",
+        "packagesPath": "/home/ezcoderz/.nuget/packages/",
+        "outputPath": "/home/ezcoderz/Desktop/Portal/devopsdemo/ProductPortal.Repository/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Ruder\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/home/ezcoderz/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netstandard2.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "netstandard2.0": {
             "projectReferences": {
-              "D:\\RP\\DotNet\\Sample Projects\\ProductPortal.Web\\devopsdemo\\ProductPortal.Common\\ProductPortal.Common.csproj": {
-                "projectPath": "D:\\RP\\DotNet\\Sample Projects\\ProductPortal.Web\\devopsdemo\\ProductPortal.Common\\ProductPortal.Common.csproj"
+              "/home/ezcoderz/Desktop/Portal/devopsdemo/ProductPortal.Common/ProductPortal.Common.csproj": {
+                "projectPath": "/home/ezcoderz/Desktop/Portal/devopsdemo/ProductPortal.Common/ProductPortal.Common.csproj"
               },
-              "D:\\RP\\DotNet\\Sample Projects\\ProductPortal.Web\\devopsdemo\\ProductPortal.Model\\ProductPortal.Model.csproj": {
-                "projectPath": "D:\\RP\\DotNet\\Sample Projects\\ProductPortal.Web\\devopsdemo\\ProductPortal.Model\\ProductPortal.Model.csproj"
+              "/home/ezcoderz/Desktop/Portal/devopsdemo/ProductPortal.Model/ProductPortal.Model.csproj": {
+                "projectPath": "/home/ezcoderz/Desktop/Portal/devopsdemo/ProductPortal.Model/ProductPortal.Model.csproj"
               }
             }
           }
@@ -194,7 +188,7 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/3.1.302/RuntimeIdentifierGraph.json"
         }
       }
     }
