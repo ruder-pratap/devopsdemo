@@ -1,0 +1,53 @@
+pipeline{
+agent any
+stages {
+        stage('Checkout') {
+            steps {
+                git url: 'https://github.com/ruder-pratap/devopsdemo.git', branch: 'master'
+            }
+        }
+        stage('Restore Packages') {
+            steps {
+                  sh "dotnet restore"
+            }
+        }
+        stage('Clean') {
+            steps {
+                  sh "dotnet clean"
+            }
+        }
+        stage('Build') {
+            steps {
+                  sh "dotnet build --configuration Release"
+                  sh 'pwd'
+                   sh 'ls'
+            }
+        }
+        stage('Publish') {
+            steps {
+                  sh 'cd ProductPortal.Web'
+                  sh "dotnet publish --configuration Release -o dist"
+                  sh 'cd ..'
+                  sh 'pwd'
+            }
+        }
+        stage('Docker Images') {
+            steps {
+                  sh "docker build -t ezcoderz/portalweb:1.0.3 -f Dockerfile.web ."
+            }
+        }
+        stage("Docker push") {
+            steps{
+                    sh "docker login -u ezcoderz -pPankaj@123"
+                    sh "docker push ezcoderz/portalweb:1.0.3"
+                
+            }
+        }
+         stage("Deploy") {
+            steps{
+              sh 'ssh  -o StrictHostKeyChecking=no  ezcoderz@192.168.56.105 "docker run --name portalweb -e core=http://192.168.56.105:56562/api/ -p 56551:56551 --rm -d ezcoderz/portalweb:1.0.3"'
+            }
+        }
+    }
+}
+    
