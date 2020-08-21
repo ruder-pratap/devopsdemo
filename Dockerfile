@@ -10,7 +10,6 @@ COPY ["ProductPortal.Repository/ProductPortal.Repository.csproj", "ProductPortal
 
 COPY . .
 WORKDIR "/src/ProductPortal.API"
-RUN dotnet restore "ProductPortal.API.csproj"
 RUN dotnet build "ProductPortal.API.csproj" -c Release -o /app/build
 
 FROM build AS publish
